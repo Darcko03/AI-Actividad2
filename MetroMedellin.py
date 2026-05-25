@@ -160,47 +160,52 @@ REGLAS = [
     {
         "id": "R1",
         "descripcion": "Transbordo en San Antonio entre Línea A y Línea B",
-        "condicion": lambda origen, destino, linea_actual: (
-            origen == "San Antonio" and linea_actual in ["A", "B"]
+        "condicion": lambda origen, linea_salida, linea_llegada: (
+            origen == "San Antonio" and
+            set([linea_salida, linea_llegada]) == set(["A", "B"])
         ),
         "accion": "Permitir cambio entre Línea A y Línea B en San Antonio"
     },
     {
         "id": "R2",
         "descripcion": "Transbordo en Acevedo entre Línea A y Cable K",
-        "condicion": lambda origen, destino, linea_actual: (
-            origen == "Acevedo" and linea_actual in ["A", "K"]
+        "condicion": lambda origen, linea_salida, linea_llegada: (
+            origen == "Acevedo" and
+            set([linea_salida, linea_llegada]) == set(["A", "K"])
         ),
         "accion": "Permitir cambio entre Línea A y Cable K en Acevedo"
     },
     {
         "id": "R3",
         "descripcion": "Transbordo en San Javier entre Línea B y Cable J",
-        "condicion": lambda origen, destino, linea_actual: (
-            origen == "San Javier" and linea_actual in ["B", "J"]
+        "condicion": lambda origen, linea_salida, linea_llegada: (
+            origen == "San Javier" and
+            set([linea_salida, linea_llegada]) == set(["B", "J"])
         ),
         "accion": "Permitir cambio entre Línea B y Cable J en San Javier"
     },
     {
         "id": "R4",
         "descripcion": "Transbordo en Miraflores entre Tranvía y Cable M",
-        "condicion": lambda origen, destino, linea_actual: (
-            origen == "Miraflores" and linea_actual in ["T", "M"]
+        "condicion": lambda origen, linea_salida, linea_llegada: (
+            origen == "Miraflores" and
+            set([linea_salida, linea_llegada]) == set(["T", "M"])
         ),
         "accion": "Permitir cambio entre Tranvía y Cable M en Miraflores"
     },
     {
         "id": "R5",
         "descripcion": "Transbordo en Santo Domingo entre Cable K y Cable L",
-        "condicion": lambda origen, destino, linea_actual: (
-            origen == "Santo Domingo" and linea_actual in ["K", "L"]
+        "condicion": lambda origen, linea_salida, linea_llegada: (
+            origen == "Santo Domingo" and
+            set([linea_salida, linea_llegada]) == set(["K", "L"])
         ),
         "accion": "Permitir cambio entre Cable K y Cable L en Santo Domingo"
     },
     {
         "id": "R6",
         "descripcion": "Tiempo adicional por transbordo de línea",
-        "condicion": lambda origen, destino, linea_actual: False,
+        "condicion": lambda origen, linea_salida, linea_llegada: False,
         "accion": "Agregar 3 minutos de espera al cambiar de línea"
     },
 ]
@@ -381,28 +386,37 @@ def mostrar_reglas_disparadas(camino, grafo):
     print("  REGLAS LÓGICAS APLICADAS:")
     print()
     reglas_disparadas = set()
+    hubo_transbordo = False
     linea_anterior = None
 
     for i in range(len(camino) - 1):
         est = camino[i]
         linea = obtener_linea(est, camino[i + 1], grafo)
-        for regla in REGLAS:
-            if regla["id"] != "R6":
-                if regla["condicion"](est, camino[i + 1], linea):
-                    reglas_disparadas.add(regla["id"])
-                    print(f"  [{regla['id']}] {regla['descripcion']}")
-                    print(f"       → Acción: {regla['accion']}")
-                    print()
-        if linea_anterior and linea != linea_anterior:
+
+        # Solo disparar reglas cuando REALMENTE cambia la línea
+        if linea_anterior is not None and linea != linea_anterior:
+            hubo_transbordo = True
+            # Buscar qué regla R1-R5 aplica a este transbordo real
+            for regla in REGLAS:
+                if regla["id"] == "R6":
+                    continue
+                if regla["condicion"](est, linea_anterior, linea):
+                    if regla["id"] not in reglas_disparadas:
+                        reglas_disparadas.add(regla["id"])
+                        print(f"  [{regla['id']}] {regla['descripcion']}")
+                        print(f"       → Acción: {regla['accion']}")
+                        print()
+            # R6 siempre aplica cuando hay transbordo real
             if "R6" not in reglas_disparadas:
                 reglas_disparadas.add("R6")
                 r6 = next(r for r in REGLAS if r["id"] == "R6")
                 print(f"  [R6] {r6['descripcion']}")
                 print(f"       → Acción: {r6['accion']}")
                 print()
+
         linea_anterior = linea
 
-    if not reglas_disparadas:
+    if not hubo_transbordo:
         print("  (Sin transbordos - viaje en una sola línea)")
         print()
 
