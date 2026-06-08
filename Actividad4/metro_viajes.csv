@@ -1,0 +1,1201 @@
+origen,destino,linea_origen,linea_destino,franja_horaria,dia_semana,es_festivo,distancia_km,misma_linea,origen_es_transbordo,destino_es_transbordo,ocupacion_vagon,tiempo_espera_min,num_paradas_estimadas,tarifa_cop,requiere_transbordo,congestion_alta
+Trece de Noviembre,Hospital,M,A,madrugada,6,0,2.553,0,0,0,0.13,11,5,3300,1,0
+Universidad,Andalucía,A,K,madrugada,5,0,3.946,0,0,0,0.14,8,3,3300,1,0
+Industriales,Aguacatala,A,A,tarde_valle,5,0,3.344,1,0,0,0.26,5,18,3300,0,0
+Alejandro Echavarría,Poblado,T,A,tarde_pico,5,0,4.758,0,0,0,0.77,2,6,3300,1,1
+Bicentenario,Floresta,T,B,mañana_valle,2,0,5.817,0,0,0,0.35,6,4,3300,1,0
+Caribe,Miraflores,A,T,madrugada,3,0,3.561,0,0,1,0.18,12,2,3300,1,0
+Loyola,Andalucía,T,K,madrugada,4,0,6.932,0,0,0,0.11,12,12,3300,1,0
+Villa Sierra,Exposiciones,K,A,noche,1,0,8.008,0,0,0,0.16,7,10,3300,1,1
+Caribe,Aguacatala,A,A,madrugada,4,0,8.652,1,0,0,0.13,13,6,3300,0,0
+Trinidad,Santa Lucía,B,B,mañana_pico,6,0,0.756,1,0,0,0.82,2,6,3300,0,1
+La Aurora,Aguacatala,J,A,mañana_pico,4,0,9.886,0,0,0,0.84,3,11,3300,1,1
+Acevedo,Aguacatala,A,A,madrugada,7,0,11.203,1,1,0,0.13,11,11,3300,0,0
+Industriales,Juan XXIII,A,J,tarde_pico,6,0,5.204,0,0,0,0.81,4,5,3300,1,1
+Aguacatala,Villa Sierra,A,K,tarde_valle,3,0,12.002,0,0,0,0.44,7,13,3300,1,0
+Trinidad,Poblado,B,A,mañana_pico,5,0,4.259,0,0,0,0.87,2,4,3300,1,1
+Parque Berrío,La Sierra,A,M,mañana_pico,7,0,2.569,0,0,0,0.9,5,13,3300,1,1
+Santo Domingo,Loyola,K,T,tarde_valle,3,0,7.156,0,1,0,0.49,4,4,3300,1,0
+La Aurora,Envigado,J,A,noche,3,0,11.161,0,0,0,0.17,9,6,3300,1,0
+Loyola,Niquía,T,A,noche,6,0,12.976,0,0,0,0.2,10,6,3300,1,0
+Juan XXIII,Universidad,J,A,noche,3,0,6.023,0,0,0,0.32,10,7,3300,1,0
+Parque Berrío,Suramericana,A,B,mañana_pico,5,0,1.723,0,0,0,0.99,2,11,3300,1,1
+Oriente,Bello,T,A,madrugada,3,0,12.145,0,0,0,0.19,12,8,3300,1,0
+Acevedo,Ayurá,A,A,tarde_valle,1,0,12.484,1,1,0,0.27,7,3,3300,0,0
+La Aurora,Prado,J,A,mañana_pico,6,0,7.99,0,0,0,0.87,3,9,3300,1,1
+Vallejuelos,Arví,J,L,tarde_pico,2,0,15.002,0,0,0,0.93,3,10,3300,1,1
+Miraflores,Trinidad,T,B,tarde_pico,5,0,3.125,0,1,0,0.81,3,8,3300,1,1
+Tricentenario,Santa Lucía,A,B,madrugada,5,0,5.161,0,0,0,0.16,11,1,3300,1,0
+Tricentenario,La Sierra,A,M,madrugada,2,0,6.808,0,0,0,0.11,8,11,3300,1,0
+Tricentenario,Vallejuelos,A,J,mañana_pico,3,0,6.864,0,0,0,0.92,3,18,3300,1,1
+Prado,La Independencia,A,K,tarde_valle,4,0,6.436,0,0,0,0.31,7,14,3300,1,0
+Exposiciones,Universidad,A,A,madrugada,6,0,3.666,1,0,0,0.14,14,14,3300,0,0
+Loyola,Acevedo,T,A,noche,6,0,7.233,0,0,1,0.35,6,2,3300,1,0
+Miraflores,Floresta,T,B,madrugada,2,0,4.621,0,1,0,0.12,15,5,3300,1,0
+Bicentenario,Alpujarra,T,A,mañana_valle,4,0,2.795,0,0,0,0.36,4,15,3300,1,0
+Andalucía,Universidad,K,A,madrugada,6,0,3.946,0,0,0,0.2,8,3,3300,1,0
+Aguacatala,San Antonio,A,A,tarde_pico,4,0,5.007,1,0,1,0.82,5,2,3300,0,1
+San Antonio,Miraflores,A,T,madrugada,4,0,1.095,0,1,1,0.13,15,10,3300,1,0
+Bicentenario,Villa Sierra,T,K,noche,6,0,6.635,0,0,0,0.25,7,10,3300,1,0
+Industriales,Acevedo,A,A,tarde_valle,6,0,7.896,1,0,1,0.39,9,11,3300,0,0
+Acevedo,Tricentenario,A,A,tarde_valle,4,0,1.496,1,1,0,0.38,8,6,3300,0,0
+Acevedo,Vallejuelos,A,J,madrugada,7,1,7.138,0,1,0,0.16,11,13,3300,1,0
+Hospital,La Independencia,A,K,mañana_pico,5,0,5.716,0,0,0,0.9,2,14,3300,1,1
+La Independencia,Villa Sierra,K,K,tarde_valle,3,0,0.988,1,0,0,0.48,5,11,3300,0,0
+Aguacatala,Envigado,A,A,tarde_pico,2,0,3.1,1,0,0,0.87,4,15,3300,0,1
+San Javier,Tricentenario,B,A,madrugada,4,0,5.93,0,1,0,0.16,9,3,3300,1,0
+La Aurora,Industriales,J,A,tarde_valle,3,0,7.37,0,0,0,0.28,6,3,3300,1,0
+Aguacatala,Suramericana,A,B,mañana_valle,2,0,5.148,0,0,0,0.41,8,10,3300,1,0
+Arví,Vallejuelos,L,J,madrugada,6,0,15.002,0,0,0,0.18,12,4,3300,1,0
+Prado,Envigado,A,A,madrugada,1,0,9.035,1,0,0,0.17,10,9,3300,0,0
+Itagüí,Arví,A,L,mañana_pico,6,0,18.492,0,0,0,0.84,4,17,3300,1,1
+Oriente,Ayurá,T,A,madrugada,1,0,8.588,0,0,0,0.16,12,2,3300,1,0
+Niquía,Santa Lucía,A,B,mañana_pico,6,0,10.524,0,0,0,0.99,3,15,3300,1,1
+Andalucía,Bicentenario,K,T,tarde_valle,1,0,6.52,0,0,0,0.28,9,5,3300,1,0
+La Aurora,Madera,J,A,mañana_valle,5,0,7.675,0,0,0,0.44,7,5,3300,1,0
+Madera,San Javier,A,B,mañana_valle,7,0,7.818,0,0,1,0.31,6,7,3300,1,0
+Aguacatala,Universidad,A,A,mañana_valle,7,0,7.633,1,0,0,0.52,8,5,3300,0,0
+Aguacatala,San Antonio,A,A,mañana_pico,4,0,5.007,1,0,1,0.76,4,14,3300,0,1
+Aguacatala,Itagüí,A,A,mañana_pico,7,0,4.949,1,0,0,0.85,2,16,3300,0,1
+Poblado,Exposiciones,A,A,tarde_pico,3,0,2.947,1,0,0,0.78,3,8,3300,0,1
+Bello,Industriales,A,A,tarde_pico,3,0,11.539,1,0,0,0.77,2,9,3300,0,1
+Santa Lucía,Vallejuelos,B,J,tarde_pico,6,0,3.9,0,0,0,0.95,4,1,3300,1,1
+Hospital,Envigado,A,A,mañana_pico,5,0,9.747,1,0,0,0.99,4,2,3300,0,1
+Universidad,Arví,A,L,tarde_pico,3,0,8.214,0,0,0,0.88,4,14,3300,1,1
+Santo Domingo,Juan XXIII,K,J,madrugada,4,0,10.626,0,1,0,0.19,11,9,3300,1,0
+Madera,Buenos Aires,A,T,madrugada,5,0,9.225,0,0,0,0.19,11,12,3300,1,0
+Bicentenario,Tricentenario,T,A,noche,3,0,5.167,0,0,0,0.27,11,4,3300,1,1
+La Estrella,Vallejuelos,A,J,mañana_valle,6,0,11.696,0,0,0,0.4,7,10,3300,1,0
+Andalucía,Prado,K,A,mañana_pico,4,0,5.574,0,0,0,0.92,5,6,3300,1,1
+Arví,Villa Sierra,L,K,mañana_valle,4,0,7.127,0,0,0,0.44,4,10,3300,1,0
+Itagüí,Industriales,A,A,tarde_pico,7,0,7.643,1,0,0,0.86,5,15,3300,0,1
+Buenos Aires,Industriales,T,A,tarde_valle,4,0,4.42,0,0,0,0.45,9,6,3300,1,0
+Caribe,La Estrella,A,A,tarde_valle,6,0,14.303,1,0,0,0.41,6,3,3300,0,0
+Aguacatala,San Javier,A,B,mañana_pico,7,1,6.666,0,0,1,0.76,3,16,3300,1,1
+Arví,Tricentenario,L,A,tarde_pico,4,0,8.442,0,0,0,0.92,3,13,3300,1,1
+Oriente,Miraflores,T,T,mañana_pico,2,0,3.637,1,0,1,0.91,2,4,3300,0,1
+Bicentenario,Poblado,T,A,mañana_pico,7,0,5.054,0,0,0,0.88,2,18,3300,1,1
+Aguacatala,Hospital,A,A,tarde_pico,2,0,6.795,1,0,0,0.9,4,15,3300,0,1
+Arví,Juan XXIII,L,J,tarde_pico,7,0,14.215,0,0,0,0.81,3,16,3300,1,1
+Buenos Aires,Ayurá,T,A,mañana_pico,7,0,7.461,0,0,0,0.94,5,8,3300,1,1
+Envigado,Loyola,A,T,madrugada,6,0,9.836,0,0,0,0.13,12,11,3300,1,0
+San Javier,Andalucía,B,K,madrugada,2,0,7.533,0,1,0,0.12,14,5,3300,1,0
+Industriales,Tricentenario,A,A,tarde_pico,4,0,6.556,1,0,0,0.78,5,14,3300,0,1
+Acevedo,Poblado,A,A,tarde_pico,4,0,10.022,1,1,0,0.93,2,13,3300,0,1
+Asomadera,Niquía,T,A,mañana_valle,3,0,13.303,0,0,0,0.49,7,18,3300,1,0
+La Aurora,Arví,J,L,mañana_pico,4,0,15.763,0,0,0,0.8,5,16,3300,1,1
+Bello,Miraflores,A,T,mañana_valle,6,0,10.337,0,0,1,0.47,7,6,3300,1,0
+Loyola,Prado,T,A,tarde_valle,5,0,2.947,0,0,0,0.26,7,1,3300,1,1
+Caribe,Buenos Aires,A,T,mañana_pico,7,0,4.375,0,0,0,0.76,5,11,3300,1,1
+Industriales,Asomadera,A,T,mañana_valle,3,0,5.579,0,0,0,0.49,7,9,3300,1,0
+Alejandro Echavarría,Ayurá,T,A,madrugada,4,0,6.994,0,0,0,0.1,8,12,3300,1,0
+Poblado,Tricentenario,A,A,noche,1,0,8.64,1,0,0,0.3,7,7,3300,0,0
+Bello,Trece de Noviembre,A,M,mañana_pico,2,0,11.348,0,0,0,0.78,2,7,3300,1,1
+Loyola,Ayurá,T,A,mañana_valle,2,0,7.802,0,0,0,0.45,4,6,3300,1,0
+La Estrella,Universidad,A,A,tarde_valle,1,0,13.479,1,0,0,0.48,8,13,3300,0,0
+Miraflores,Exposiciones,T,A,madrugada,5,0,2.23,0,1,0,0.17,11,4,3300,1,0
+La Estrella,Arví,A,L,madrugada,7,0,19.987,0,0,0,0.18,13,18,3300,1,0
+Bicentenario,Trinidad,T,B,madrugada,5,0,4.325,0,0,0,0.16,8,14,3300,1,0
+Oriente,Universidad,T,A,tarde_pico,3,0,4.769,0,0,0,0.86,5,5,3300,1,1
+Bicentenario,Alpujarra,T,A,noche,5,0,2.795,0,0,0,0.34,8,18,3300,1,0
+Asomadera,Loyola,T,T,tarde_pico,7,0,0.603,1,0,0,0.77,3,3,3300,0,1
+Envigado,Loyola,A,T,mañana_pico,7,0,9.836,0,0,0,0.9,5,11,3300,1,1
+Bello,Juan XXIII,A,J,mañana_valle,2,0,8.749,0,0,0,0.42,6,9,3300,1,0
+Floresta,Envigado,B,A,tarde_valle,6,0,8.194,0,0,0,0.47,8,1,3300,1,0
+Vallejuelos,Exposiciones,J,A,madrugada,2,0,6.167,0,0,0,0.17,15,18,3300,1,0
+Aguacatala,Oriente,A,T,noche,6,0,7.63,0,0,0,0.25,12,1,3300,1,0
+Caribe,La Estrella,A,A,mañana_pico,4,0,14.303,1,0,0,0.92,4,12,3300,0,1
+Asomadera,Villa Sierra,T,K,tarde_valle,3,0,7.038,0,0,0,0.36,9,18,3300,1,1
+Floresta,Trinidad,B,B,noche,4,0,1.511,1,0,0,0.2,8,8,3300,0,0
+Hospital,Industriales,A,A,mañana_valle,1,0,3.755,1,0,0,0.49,5,7,3300,0,0
+Industriales,Oriente,A,T,mañana_valle,6,0,6.19,0,0,0,0.45,8,10,3300,1,0
+Universidad,Industriales,A,A,mañana_valle,2,0,4.515,1,0,0,0.39,6,1,3300,0,0
+La Aurora,Prado,J,A,mañana_valle,1,0,7.99,0,0,0,0.54,8,10,3300,1,0
+Prado,La Sierra,A,M,tarde_pico,1,0,2.974,0,0,0,0.92,4,16,3300,1,1
+Asomadera,Buenos Aires,T,T,mañana_valle,2,0,1.237,1,0,0,0.54,6,16,3300,0,1
+Hospital,Tricentenario,A,A,tarde_pico,4,0,3.213,1,0,0,0.72,2,5,3300,0,1
+Parque Berrío,La Independencia,A,K,mañana_valle,1,0,7.114,0,0,0,0.55,4,18,3300,1,0
+Alejandro Echavarría,Arví,T,L,tarde_valle,7,0,8.148,0,0,0,0.44,7,15,3300,1,0
+Buenos Aires,La Estrella,T,A,tarde_valle,4,0,12.763,0,0,0,0.33,8,2,3300,1,0
+Arví,Universidad,L,A,mañana_pico,6,0,8.214,0,0,0,0.8,2,6,3300,1,1
+Aguacatala,Alpujarra,A,A,tarde_valle,1,0,4.648,1,0,0,0.29,7,15,3300,0,0
+Santo Domingo,Asomadera,K,T,mañana_valle,1,0,7.156,0,1,0,0.36,6,15,3300,1,1
+Tricentenario,Aguacatala,A,A,mañana_valle,7,0,9.82,1,0,0,0.45,5,14,3300,0,0
+Hospital,Andalucía,A,K,mañana_pico,6,0,4.813,0,0,0,0.79,4,5,3300,1,1
+Tricentenario,Acevedo,A,A,mañana_pico,7,0,1.496,1,0,1,0.94,4,15,3300,0,1
+Hospital,Asomadera,A,T,noche,3,0,3.761,0,0,0,0.29,8,17,3300,1,0
+La Aurora,Oriente,J,T,tarde_pico,1,0,12.15,0,0,0,0.85,5,11,3300,1,1
+Santo Domingo,Ayurá,K,A,madrugada,1,0,14.288,0,1,0,0.12,8,9,3300,1,0
+Villa Sierra,Madera,K,A,mañana_pico,4,0,3.644,0,0,0,0.88,5,9,3300,1,1
+Alpujarra,Santo Domingo,A,K,tarde_pico,6,0,8.629,0,0,1,0.9,2,16,3300,1,1
+Santa Lucía,Bicentenario,B,T,mañana_valle,3,0,5.07,0,0,0,0.47,5,11,3300,1,0
+Alejandro Echavarría,Juan XXIII,T,J,mañana_valle,6,0,7.223,0,0,0,0.54,8,2,3300,1,0
+Loyola,Caribe,T,A,mañana_valle,3,0,4.792,0,0,0,0.38,7,17,3300,1,0
+Niquía,Andalucía,A,K,tarde_pico,4,0,6.235,0,0,0,0.71,4,16,3300,1,1
+Trece de Noviembre,Buenos Aires,M,T,madrugada,2,0,1.588,0,0,0,0.13,10,10,3300,1,0
+Buenos Aires,Juan XXIII,T,J,madrugada,1,0,8.311,0,0,0,0.2,11,6,3300,1,0
+La Estrella,Villa Sierra,A,K,madrugada,5,0,17.767,0,0,0,0.14,11,4,3300,1,0
+Loyola,Hospital,T,A,noche,7,1,3.225,0,0,0,0.34,8,17,3300,1,0
+Envigado,Bicentenario,A,T,tarde_pico,4,0,9.149,0,0,0,0.76,3,13,3300,1,1
+Exposiciones,Arví,A,L,tarde_valle,6,0,10.93,0,0,0,0.47,4,9,3300,1,0
+Alejandro Echavarría,Floresta,T,B,tarde_valle,3,0,5.275,0,0,0,0.46,6,10,3300,1,0
+La Independencia,Santo Domingo,K,K,noche,4,0,1.007,1,0,1,0.32,9,18,3300,0,0
+Asomadera,Santa Lucía,T,B,mañana_valle,5,0,6.859,0,0,0,0.49,7,15,3300,1,1
+San Javier,Exposiciones,B,A,noche,2,0,3.781,0,1,0,0.26,7,14,3300,1,0
+Madera,Floresta,A,B,noche,4,0,7.725,0,0,0,0.29,12,13,3300,1,0
+Suramericana,Parque Berrío,B,A,tarde_pico,1,0,1.723,0,0,0,0.73,4,4,3300,1,1
+Buenos Aires,Universidad,T,A,tarde_valle,4,0,3.274,0,0,0,0.25,5,14,3300,1,1
+La Sierra,Parque Berrío,M,A,madrugada,4,0,2.569,0,0,0,0.18,12,11,3300,1,0
+Arví,Miraflores,L,T,noche,1,0,8.706,0,0,1,0.32,12,18,3300,1,0
+Suramericana,San Javier,B,B,noche,6,0,3.083,1,0,1,0.33,9,18,3300,0,0
+Madera,Trece de Noviembre,A,M,madrugada,2,0,9.477,0,0,0,0.16,12,8,3300,1,0
+Caribe,Buenos Aires,A,T,madrugada,7,0,4.375,0,0,0,0.19,15,6,3300,1,0
+La Estrella,Bello,A,A,madrugada,3,0,19.546,1,0,0,0.18,12,12,3300,0,0
+Trinidad,Buenos Aires,B,T,mañana_pico,2,0,4.88,0,0,0,0.88,3,6,3300,1,1
+Alpujarra,Caribe,A,A,tarde_valle,7,0,4.007,1,0,0,0.42,7,5,3300,0,0
+Poblado,Asomadera,A,T,noche,3,0,6.334,0,0,0,0.24,11,1,3300,1,0
+Loyola,Itagüí,T,A,noche,5,0,11.696,0,0,0,0.18,9,12,3300,1,0
+La Independencia,La Estrella,K,A,noche,4,0,18.402,0,0,0,0.29,9,10,3300,1,1
+Exposiciones,Miraflores,A,T,tarde_pico,1,0,2.23,0,0,1,0.76,4,10,3300,1,1
+Itagüí,Bello,A,A,noche,4,0,18.533,1,0,0,0.2,10,2,3300,0,0
+Santo Domingo,Oriente,K,T,mañana_valle,7,0,7.24,0,1,0,0.45,6,8,3300,1,0
+Trece de Noviembre,Exposiciones,M,A,tarde_valle,3,0,2.428,0,0,0,0.42,9,5,3300,1,0
+Trece de Noviembre,Universidad,M,A,noche,6,0,3.39,0,0,0,0.16,12,15,3300,1,0
+Madera,Santo Domingo,A,K,mañana_valle,6,0,5.355,0,0,1,0.33,6,11,3300,1,0
+Alejandro Echavarría,Alpujarra,T,A,mañana_pico,2,0,2.271,0,0,0,0.95,4,17,3300,1,1
+Juan XXIII,Envigado,J,A,mañana_pico,3,0,9.402,0,0,0,0.98,5,10,3300,1,1
+Floresta,Hospital,B,A,tarde_pico,1,0,4.255,0,0,0,0.74,3,13,3300,1,1
+Andalucía,Trinidad,K,B,madrugada,7,0,6.701,0,0,0,0.13,9,15,3300,1,0
+Trinidad,Ayurá,B,A,tarde_valle,4,0,6.637,0,0,0,0.46,6,4,3300,1,1
+Poblado,Oriente,A,T,madrugada,5,0,6.846,0,0,0,0.19,13,8,3300,1,0
+La Sierra,Tricentenario,M,A,noche,7,0,6.808,0,0,0,0.29,11,14,3300,1,0
+Hospital,Parque Berrío,A,A,madrugada,1,0,1.424,1,0,0,0.13,15,4,3300,0,0
+Universidad,Ayurá,A,A,tarde_valle,2,0,8.902,1,0,0,0.35,6,18,3300,0,0
+Alejandro Echavarría,Santo Domingo,T,K,noche,6,0,7.337,0,0,1,0.18,9,4,3300,1,0
+Oriente,Trece de Noviembre,T,M,tarde_pico,3,0,3.32,0,0,0,0.71,4,7,3300,1,1
+Buenos Aires,Loyola,T,T,mañana_pico,7,0,0.634,1,0,0,1.0,4,18,3300,0,1
+La Sierra,Santa Lucía,M,B,madrugada,4,0,5.371,0,0,0,0.13,9,15,3300,1,0
+Caribe,Poblado,A,A,noche,6,0,7.475,1,0,0,0.27,6,2,3300,0,0
+Floresta,Aguacatala,B,A,mañana_pico,7,0,6.169,0,0,0,0.77,3,7,3300,1,1
+Poblado,Santa Lucía,A,B,mañana_pico,7,0,4.665,0,0,0,0.75,3,5,3300,1,1
+La Aurora,Ayurá,J,A,mañana_pico,1,0,10.87,0,0,0,0.92,2,5,3300,1,1
+Niquía,Trinidad,A,B,mañana_pico,5,0,10.776,0,0,0,0.83,3,9,3300,1,1
+Acevedo,Parque Berrío,A,A,noche,4,0,6.05,1,1,0,0.26,11,3,3300,0,0
+Asomadera,Buenos Aires,T,T,mañana_valle,5,0,1.237,1,0,0,0.45,7,17,3300,0,0
+Poblado,Trece de Noviembre,A,M,madrugada,6,0,3.879,0,0,0,0.18,12,15,3300,1,0
+La Sierra,Bello,M,A,madrugada,4,0,12.439,0,0,0,0.18,14,4,3300,1,0
+Oriente,Buenos Aires,T,T,madrugada,1,0,1.881,1,0,0,0.13,10,3,3300,0,0
+Prado,Itagüí,A,A,tarde_valle,6,0,10.703,1,0,0,0.4,9,11,3300,0,0
+Suramericana,Arví,B,L,tarde_valle,3,0,10.803,0,0,0,0.36,8,14,3300,1,0
+Universidad,Prado,A,A,noche,6,0,1.629,1,0,0,0.33,10,7,3300,0,0
+Bicentenario,Loyola,T,T,mañana_pico,4,0,1.189,1,0,0,0.83,5,13,3300,0,1
+Alejandro Echavarría,Universidad,T,A,mañana_valle,4,0,2.604,0,0,0,0.38,6,12,3300,1,0
+Parque Berrío,Oriente,A,T,madrugada,1,0,4.297,0,0,0,0.18,9,14,3300,1,0
+Universidad,Suramericana,A,B,mañana_pico,5,0,3.003,0,0,0,0.76,4,4,3300,1,1
+Alejandro Echavarría,Santa Lucía,T,B,noche,7,0,4.527,0,0,0,0.33,6,10,3300,1,0
+Santo Domingo,La Estrella,K,A,mañana_valle,1,0,19.093,0,1,0,0.44,5,5,3300,1,0
+Asomadera,Poblado,T,A,madrugada,3,0,6.334,0,0,0,0.18,13,4,3300,1,0
+Envigado,La Independencia,A,K,mañana_pico,7,0,15.463,0,0,0,0.89,2,9,3300,1,1
+Bello,Exposiciones,A,A,mañana_valle,6,0,10.797,1,0,0,0.49,6,12,3300,0,0
+Niquía,Exposiciones,A,A,mañana_pico,5,0,12.124,1,0,0,0.91,2,5,3300,0,1
+Trece de Noviembre,Bello,M,A,madrugada,6,0,11.348,0,0,0,0.15,14,14,3300,1,0
+Loyola,Floresta,T,B,mañana_pico,3,0,7.004,0,0,0,0.83,4,3,3300,1,1
+Acevedo,San Antonio,A,A,mañana_pico,7,0,6.292,1,1,1,0.92,4,15,3300,0,1
+Bicentenario,Juan XXIII,T,J,tarde_valle,4,0,7.762,0,0,0,0.35,5,17,3300,1,1
+Hospital,Trinidad,A,B,tarde_pico,1,0,2.976,0,0,0,0.77,5,17,3300,1,1
+La Estrella,Madera,A,A,mañana_pico,4,0,18.071,1,0,0,1.0,2,1,3300,0,1
+Industriales,San Javier,A,B,mañana_pico,7,1,3.938,0,0,1,0.81,4,4,3300,1,0
+Niquía,Juan XXIII,A,J,noche,4,0,9.602,0,0,0,0.19,9,18,3300,1,0
+Poblado,Vallejuelos,A,J,tarde_valle,7,0,8.038,0,0,0,0.34,7,2,3300,1,0
+Bicentenario,Bello,T,A,tarde_pico,1,0,10.842,0,0,0,0.92,5,13,3300,1,1
+Trece de Noviembre,Alejandro Echavarría,M,T,mañana_valle,1,0,0.952,0,0,0,0.4,6,6,3300,1,1
+Arví,Loyola,L,T,noche,3,0,6.819,0,0,0,0.17,12,4,3300,1,0
+Aguacatala,Buenos Aires,A,T,tarde_valle,4,0,6.357,0,0,0,0.38,7,10,3300,1,1
+Floresta,Poblado,B,A,mañana_valle,7,1,5.151,0,0,0,0.43,4,17,3300,1,0
+Juan XXIII,Exposiciones,J,A,mañana_valle,3,0,5.035,0,0,0,0.48,5,8,3300,1,1
+Universidad,San Antonio,A,A,mañana_valle,2,0,2.627,1,0,1,0.34,5,3,3300,0,0
+Alpujarra,La Sierra,A,M,tarde_pico,4,0,2.932,0,0,0,0.89,5,11,3300,1,1
+Trece de Noviembre,San Javier,M,B,mañana_pico,4,0,6.038,0,0,1,0.77,5,10,3300,1,1
+Envigado,Santo Domingo,A,K,madrugada,3,0,16.076,0,0,1,0.15,12,15,3300,1,0
+Buenos Aires,Madera,T,A,madrugada,3,0,9.225,0,0,0,0.18,9,3,3300,1,0
+Arví,Santo Domingo,L,K,tarde_valle,4,0,5.533,0,0,1,0.37,8,2,3300,1,0
+Buenos Aires,La Independencia,T,K,noche,2,0,6.875,0,0,0,0.21,9,17,3300,1,1
+Parque Berrío,Acevedo,A,A,tarde_pico,1,0,6.05,1,0,1,0.9,4,3,3300,0,1
+Juan XXIII,Alpujarra,J,A,madrugada,2,0,5.23,0,0,0,0.17,15,17,3300,1,0
+Vallejuelos,Trece de Noviembre,J,M,mañana_pico,3,0,8.338,0,0,0,0.84,4,13,3300,1,1
+Alejandro Echavarría,Floresta,T,B,noche,5,0,5.275,0,0,0,0.16,11,11,3300,1,0
+Tricentenario,Santa Lucía,A,B,madrugada,5,0,5.161,0,0,0,0.17,12,9,3300,1,0
+Santo Domingo,Parque Berrío,K,A,mañana_valle,1,0,7.719,0,1,0,0.45,5,12,3300,1,0
+La Estrella,Alejandro Echavarría,A,T,mañana_pico,5,0,12.106,0,0,0,0.93,2,10,3300,1,1
+Andalucía,Suramericana,K,B,noche,7,0,6.579,0,0,0,0.18,11,17,3300,1,0
+Caribe,Buenos Aires,A,T,tarde_valle,3,0,4.375,0,0,0,0.25,6,6,3300,1,1
+Industriales,Santa Lucía,A,B,tarde_pico,2,0,2.628,0,0,0,0.76,3,5,3300,1,1
+Tricentenario,La Estrella,A,A,madrugada,5,0,15.354,1,0,0,0.18,8,11,3300,0,0
+Arví,Prado,L,A,tarde_valle,4,0,8.762,0,0,0,0.29,5,6,3300,1,0
+Buenos Aires,Madera,T,A,tarde_pico,3,0,9.225,0,0,0,0.87,3,15,3300,1,1
+Arví,Itagüí,L,A,noche,7,0,18.492,0,0,0,0.26,8,16,3300,1,1
+Exposiciones,Suramericana,A,B,noche,5,0,1.083,0,0,0,0.35,9,10,3300,1,1
+Suramericana,Vallejuelos,B,J,tarde_valle,4,0,5.378,0,0,0,0.49,5,5,3300,1,0
+Ayurá,Acevedo,A,A,noche,4,0,12.484,1,0,1,0.32,10,4,3300,0,0
+Vallejuelos,Hospital,J,A,mañana_valle,1,0,6.937,0,0,0,0.49,6,15,3300,1,0
+Juan XXIII,Parque Berrío,J,A,tarde_pico,1,0,5.921,0,0,0,0.94,3,15,3300,1,1
+Santa Lucía,Bello,B,A,tarde_pico,1,0,9.343,0,0,0,0.8,4,8,3300,1,1
+Suramericana,Caribe,B,A,mañana_valle,2,0,3.745,0,0,0,0.31,4,11,3300,1,0
+Parque Berrío,Prado,A,A,madrugada,3,0,0.678,1,0,0,0.19,15,5,3300,0,0
+Asomadera,Buenos Aires,T,T,tarde_valle,1,0,1.237,1,0,0,0.48,4,9,3300,0,0
+Industriales,Parque Berrío,A,A,tarde_valle,6,0,2.481,1,0,0,0.4,7,4,3300,0,0
+Itagüí,Aguacatala,A,A,mañana_valle,1,0,4.949,1,0,0,0.31,7,15,3300,0,0
+Tricentenario,Prado,A,A,tarde_pico,5,0,3.964,1,0,0,0.83,3,5,3300,0,1
+Itagüí,Buenos Aires,A,T,madrugada,5,0,11.293,0,0,0,0.14,14,6,3300,1,0
+Caribe,La Aurora,A,J,mañana_valle,1,0,7.38,0,0,0,0.54,8,17,3300,1,1
+Juan XXIII,Villa Sierra,J,K,madrugada,4,0,8.743,0,0,0,0.19,8,13,3300,1,0
+Trinidad,Ayurá,B,A,noche,1,0,6.637,0,0,0,0.22,6,12,3300,1,0
+Aguacatala,La Sierra,A,M,madrugada,7,0,4.521,0,0,0,0.18,10,2,3300,1,0
+Santa Lucía,Andalucía,B,K,mañana_valle,7,0,6.884,0,0,0,0.51,7,16,3300,1,1
+Trece de Noviembre,Alpujarra,M,A,mañana_pico,1,0,2.03,0,0,0,0.93,5,2,3300,1,1
+Itagüí,Exposiciones,A,A,madrugada,7,1,8.492,1,0,0,0.1,12,17,3300,0,0
+Miraflores,Andalucía,T,K,tarde_pico,3,0,6.305,0,1,0,0.71,3,10,3300,1,1
+Santa Lucía,Acevedo,B,A,noche,3,0,6.208,0,0,1,0.2,12,12,3300,1,1
+Bicentenario,Miraflores,T,T,noche,4,0,1.2,1,0,1,0.33,9,11,3300,0,0
+Alpujarra,Juan XXIII,A,J,noche,4,0,5.23,0,0,0,0.22,12,17,3300,1,0
+Envigado,Caribe,A,A,noche,4,0,11.494,1,0,0,0.17,10,6,3300,0,0
+La Aurora,Itagüí,J,A,mañana_valle,1,0,11.731,0,0,0,0.32,6,10,3300,1,0
+Buenos Aires,Arví,T,L,noche,4,0,7.292,0,0,0,0.18,9,12,3300,1,0
+Buenos Aires,Madera,T,A,noche,7,0,9.225,0,0,0,0.27,9,9,3300,1,0
+Trece de Noviembre,Acevedo,M,A,madrugada,6,0,7.238,0,0,1,0.16,13,17,3300,1,0
+San Antonio,Bello,A,A,mañana_pico,7,0,10.217,1,1,0,0.95,2,5,3300,0,1
+Tricentenario,Ayurá,A,A,noche,3,0,11.1,1,0,0,0.22,10,2,3300,0,0
+Santo Domingo,Parque Berrío,K,A,noche,4,0,7.719,0,1,0,0.34,8,15,3300,1,1
+Tricentenario,La Independencia,A,K,mañana_pico,5,0,3.375,0,0,0,0.84,4,9,3300,1,1
+Aguacatala,Hospital,A,A,madrugada,6,0,6.795,1,0,0,0.12,14,18,3300,0,0
+Hospital,Envigado,A,A,mañana_valle,6,0,9.747,1,0,0,0.41,8,10,3300,0,0
+Oriente,Exposiciones,T,A,madrugada,2,0,5.71,0,0,0,0.19,15,6,3300,1,0
+Buenos Aires,Caribe,T,A,noche,7,0,4.375,0,0,0,0.28,11,3,3300,1,0
+Andalucía,La Aurora,K,J,mañana_valle,3,0,8.632,0,0,0,0.51,5,12,3300,1,1
+Juan XXIII,Poblado,J,A,madrugada,2,0,6.933,0,0,0,0.18,11,16,3300,1,0
+Bello,Suramericana,A,B,tarde_valle,5,0,9.741,0,0,0,0.34,8,5,3300,1,0
+Arví,Caribe,L,A,madrugada,3,0,8.383,0,0,0,0.14,15,17,3300,1,0
+Alejandro Echavarría,Bicentenario,T,T,tarde_valle,1,0,0.543,1,0,0,0.28,6,3,3300,0,0
+Buenos Aires,Asomadera,T,T,noche,5,0,1.237,1,0,0,0.22,12,18,3300,0,0
+Trece de Noviembre,La Independencia,M,K,mañana_pico,7,0,7.83,0,0,0,0.86,2,4,3300,1,1
+Vallejuelos,Parque Berrío,J,A,mañana_valle,2,0,6.988,0,0,0,0.34,5,12,3300,1,0
+Vallejuelos,Itagüí,J,A,madrugada,3,0,10.988,0,0,0,0.12,12,5,3300,1,0
+Trece de Noviembre,La Estrella,M,A,tarde_valle,5,0,11.239,0,0,0,0.27,9,6,3300,1,1
+La Independencia,Santo Domingo,K,K,mañana_pico,2,0,1.007,1,0,1,0.91,4,2,3300,0,1
+Bello,Universidad,A,A,madrugada,6,0,7.978,1,0,0,0.18,12,7,3300,0,0
+Villa Sierra,Alejandro Echavarría,K,T,tarde_valle,6,0,6.574,0,0,0,0.26,9,18,3300,1,1
+Itagüí,San Javier,A,B,tarde_pico,2,0,9.423,0,0,1,0.9,5,10,3300,1,1
+Loyola,Tricentenario,T,A,noche,1,0,5.797,0,0,0,0.18,9,16,3300,1,0
+Loyola,Industriales,T,A,mañana_valle,5,0,5.004,0,0,0,0.34,6,12,3300,1,0
+Miraflores,Prado,T,A,mañana_valle,5,0,0.851,0,1,0,0.44,6,8,3300,1,0
+Loyola,Hospital,T,A,mañana_valle,4,0,3.225,0,0,0,0.36,4,2,3300,1,0
+Itagüí,Miraflores,A,T,tarde_valle,4,0,10.304,0,0,1,0.31,5,11,3300,1,0
+Villa Sierra,San Javier,K,B,mañana_pico,7,1,8.434,0,0,1,1.0,5,16,3300,1,1
+La Estrella,Juan XXIII,A,J,madrugada,1,0,11.023,0,0,0,0.19,15,8,3300,1,0
+Industriales,Santo Domingo,A,K,mañana_valle,1,0,10.116,0,0,1,0.31,7,16,3300,1,1
+Itagüí,Andalucía,A,K,madrugada,7,1,15.872,0,0,0,0.11,12,12,3300,1,0
+Miraflores,Trinidad,T,B,madrugada,4,0,3.125,0,1,0,0.11,11,12,3300,1,0
+Andalucía,Itagüí,K,A,madrugada,4,0,15.872,0,0,0,0.15,12,4,3300,1,0
+Prado,Universidad,A,A,tarde_pico,3,0,1.629,1,0,0,0.9,4,18,3300,0,1
+Trinidad,Parque Berrío,B,A,mañana_pico,5,0,2.463,0,0,0,0.88,2,2,3300,1,1
+Madera,Parque Berrío,A,A,noche,3,0,8.209,1,0,0,0.31,10,15,3300,0,0
+Parque Berrío,Arví,A,L,tarde_valle,2,0,9.241,0,0,0,0.33,8,11,3300,1,0
+San Antonio,Alejandro Echavarría,A,T,tarde_valle,6,0,1.746,0,1,0,0.46,8,11,3300,1,0
+Juan XXIII,Vallejuelos,J,J,tarde_valle,4,0,1.139,1,0,0,0.43,6,16,3300,0,0
+Bello,Suramericana,A,B,mañana_valle,6,0,9.741,0,0,0,0.33,7,10,3300,1,0
+Trece de Noviembre,Bello,M,A,tarde_valle,4,0,11.348,0,0,0,0.32,9,8,3300,1,0
+Acevedo,Santo Domingo,A,K,tarde_pico,2,0,4.127,0,1,1,0.83,5,5,3300,1,1
+Aguacatala,Madera,A,A,tarde_valle,6,0,13.148,1,0,0,0.28,4,15,3300,0,0
+San Javier,Bicentenario,B,T,mañana_pico,4,0,6.634,0,1,0,0.92,5,17,3300,1,1
+Arví,Asomadera,L,T,noche,6,0,6.375,0,0,0,0.16,7,17,3300,1,0
+Industriales,Villa Sierra,A,K,mañana_valle,6,0,8.857,0,0,0,0.42,7,11,3300,1,0
+Alpujarra,Asomadera,A,T,tarde_valle,3,0,4.571,0,0,0,0.39,9,9,3300,1,0
+Arví,Asomadera,L,T,mañana_pico,2,0,6.375,0,0,0,0.82,4,8,3300,1,1
+La Estrella,Itagüí,A,A,noche,2,0,1.523,1,0,0,0.29,9,11,3300,0,0
+Asomadera,Santa Lucía,T,B,tarde_valle,7,0,6.859,0,0,0,0.32,8,18,3300,1,0
+Suramericana,Alejandro Echavarría,B,T,mañana_valle,7,0,3.04,0,0,0,0.37,6,3,3300,1,0
+Santa Lucía,Loyola,B,T,noche,3,0,6.257,0,0,0,0.3,7,7,3300,1,0
+La Aurora,Envigado,J,A,tarde_valle,6,0,11.161,0,0,0,0.32,4,8,3300,1,0
+Aguacatala,Acevedo,A,A,noche,5,0,11.203,1,0,1,0.2,7,2,3300,0,0
+Universidad,Bicentenario,A,T,mañana_valle,6,0,2.911,0,0,0,0.42,5,1,3300,1,0
+Andalucía,San Antonio,K,A,tarde_pico,6,0,6.54,0,0,1,0.93,5,16,3300,1,1
+La Sierra,Exposiciones,M,A,mañana_valle,3,0,3.163,0,0,0,0.37,4,3,3300,1,0
+La Sierra,Villa Sierra,M,K,mañana_pico,5,0,8.439,0,0,0,0.93,2,6,3300,1,1
+Alejandro Echavarría,Alpujarra,T,A,madrugada,7,0,2.271,0,0,0,0.15,12,2,3300,1,0
+Niquía,San Javier,A,B,tarde_valle,5,0,10.2,0,0,1,0.28,6,10,3300,1,1
+Loyola,Andalucía,T,K,tarde_valle,4,0,6.932,0,0,0,0.47,5,17,3300,1,0
+Loyola,Envigado,T,A,mañana_pico,7,1,9.836,0,0,0,0.79,5,9,3300,1,0
+Alpujarra,Niquía,A,A,noche,3,0,11.752,1,0,0,0.31,10,7,3300,0,0
+Alpujarra,Trece de Noviembre,A,M,noche,4,0,2.03,0,0,0,0.32,10,11,3300,1,1
+Caribe,Alejandro Echavarría,A,T,noche,1,0,3.772,0,0,0,0.19,7,16,3300,1,0
+San Javier,Aguacatala,B,A,madrugada,3,0,6.666,0,1,0,0.14,15,9,3300,1,0
+Floresta,La Estrella,B,A,tarde_valle,6,0,10.35,0,0,0,0.39,6,12,3300,1,0
+Aguacatala,Acevedo,A,A,noche,1,0,11.203,1,0,1,0.24,7,13,3300,0,0
+Juan XXIII,La Estrella,J,A,noche,1,0,11.023,0,0,0,0.28,8,12,3300,1,0
+Arví,Poblado,L,A,mañana_pico,2,0,12.68,0,0,0,0.87,5,12,3300,1,1
+Alejandro Echavarría,Villa Sierra,T,K,tarde_pico,7,0,6.574,0,0,0,0.87,3,8,3300,1,1
+Santo Domingo,Caribe,K,A,tarde_valle,4,0,4.996,0,1,0,0.38,6,3,3300,1,0
+Villa Sierra,Hospital,K,A,madrugada,7,0,5.209,0,0,0,0.15,10,6,3300,1,0
+San Javier,La Aurora,B,J,tarde_pico,1,0,3.436,0,1,0,0.87,5,3,3300,1,1
+Juan XXIII,Buenos Aires,J,T,madrugada,4,0,8.311,0,0,0,0.11,14,15,3300,1,0
+Villa Sierra,Acevedo,K,A,tarde_valle,4,0,2.132,0,0,1,0.42,6,1,3300,1,0
+Miraflores,Ayurá,T,A,madrugada,6,0,6.75,0,1,0,0.12,9,2,3300,1,0
+Bicentenario,Santa Lucía,T,B,noche,1,0,5.07,0,0,0,0.26,6,3,3300,1,0
+Asomadera,Madera,T,A,mañana_valle,4,0,9.887,0,0,0,0.34,5,14,3300,1,0
+Trinidad,Miraflores,B,T,tarde_pico,7,0,3.125,0,0,1,0.79,2,18,3300,1,1
+Prado,Trinidad,A,B,madrugada,2,0,2.721,0,0,0,0.2,14,17,3300,1,0
+Prado,Aguacatala,A,A,madrugada,7,1,6.057,1,0,0,0.13,14,18,3300,0,0
+Suramericana,Poblado,B,A,mañana_pico,4,0,3.978,0,0,0,0.84,4,7,3300,1,1
+Hospital,Madera,A,A,noche,4,0,6.924,1,0,0,0.27,6,8,3300,0,0
+Industriales,Tricentenario,A,A,madrugada,5,0,6.556,1,0,0,0.1,8,8,3300,0,0
+Madera,Alejandro Echavarría,A,T,tarde_pico,2,0,8.698,0,0,0,0.83,2,5,3300,1,1
+Juan XXIII,Itagüí,J,A,mañana_pico,7,0,10.209,0,0,0,0.89,4,8,3300,1,1
+La Estrella,Parque Berrío,A,A,noche,5,0,11.412,1,0,0,0.19,8,9,3300,0,0
+Acevedo,Villa Sierra,A,K,tarde_valle,6,0,2.132,0,1,0,0.48,9,14,3300,1,0
+Andalucía,Oriente,K,T,madrugada,3,0,7.521,0,0,0,0.19,14,17,3300,1,0
+San Javier,Bicentenario,B,T,tarde_pico,2,0,6.634,0,1,0,0.77,3,18,3300,1,1
+Asomadera,Aguacatala,T,A,mañana_pico,3,0,7.171,0,0,0,0.96,3,15,3300,1,1
+Acevedo,Villa Sierra,A,K,tarde_pico,4,0,2.132,0,1,0,0.84,3,13,3300,1,1
+Aguacatala,Envigado,A,A,mañana_pico,3,0,3.1,1,0,0,0.91,5,12,3300,0,1
+Caribe,Andalucía,A,K,noche,7,1,2.883,0,0,0,0.2,11,2,3300,1,0
+Tricentenario,Industriales,A,A,tarde_valle,6,0,6.556,1,0,0,0.42,5,16,3300,0,0
+Industriales,Santa Lucía,A,B,mañana_valle,1,0,2.628,0,0,0,0.35,5,4,3300,1,0
+Asomadera,Aguacatala,T,A,noche,5,0,7.171,0,0,0,0.29,9,8,3300,1,1
+Andalucía,San Javier,K,B,mañana_valle,4,0,7.533,0,0,1,0.42,6,10,3300,1,0
+Ayurá,Suramericana,A,B,tarde_valle,4,0,6.421,0,0,0,0.37,9,16,3300,1,0
+San Javier,Industriales,B,A,mañana_valle,3,0,3.938,0,1,0,0.4,8,8,3300,1,1
+Parque Berrío,Bello,A,A,mañana_valle,5,0,10.056,1,0,0,0.53,8,14,3300,0,0
+Itagüí,Parque Berrío,A,A,mañana_pico,3,0,10.036,1,0,0,0.81,3,16,3300,0,1
+Andalucía,Floresta,K,B,mañana_valle,7,0,7.142,0,0,0,0.54,7,15,3300,1,0
+San Antonio,Trinidad,A,B,mañana_pico,2,0,2.082,0,1,0,0.93,5,6,3300,1,1
+La Aurora,Acevedo,J,A,tarde_valle,1,0,7.577,0,0,1,0.46,4,2,3300,1,0
+Niquía,Bicentenario,A,T,mañana_pico,7,0,12.346,0,0,0,0.77,3,1,3300,1,1
+Industriales,Vallejuelos,A,J,tarde_pico,3,0,6.342,0,0,0,0.72,5,16,3300,1,1
+Bello,Niquía,A,A,tarde_valle,5,0,1.556,1,0,0,0.35,4,17,3300,0,0
+Envigado,Andalucía,A,K,mañana_valle,1,0,14.366,0,0,0,0.43,7,6,3300,1,1
+Universidad,Hospital,A,A,tarde_valle,2,0,0.868,1,0,0,0.31,8,17,3300,0,1
+Ayurá,Trinidad,A,B,mañana_valle,7,0,6.637,0,0,0,0.39,7,15,3300,1,0
+Villa Sierra,Aguacatala,K,A,noche,2,0,12.002,0,0,0,0.21,12,3,3300,1,1
+La Sierra,Madera,M,A,madrugada,4,0,10.563,0,0,0,0.14,15,2,3300,1,0
+Trece de Noviembre,Niquía,M,A,noche,2,0,12.81,0,0,0,0.17,12,14,3300,1,1
+La Sierra,Floresta,M,B,tarde_valle,7,0,6.114,0,0,0,0.47,4,8,3300,1,0
+Industriales,La Independencia,A,K,tarde_pico,3,0,9.442,0,0,0,0.71,2,9,3300,1,1
+La Aurora,La Independencia,J,K,noche,1,0,10.641,0,0,0,0.19,12,11,3300,1,0
+Bello,Poblado,A,A,tarde_valle,2,0,13.717,1,0,0,0.44,9,13,3300,0,0
+Tricentenario,San Javier,A,B,mañana_pico,5,0,5.93,0,0,1,0.81,5,18,3300,1,1
+Floresta,Miraflores,B,T,noche,2,0,4.621,0,0,1,0.31,11,3,3300,1,0
+Juan XXIII,Santa Lucía,J,B,madrugada,1,0,2.782,0,0,0,0.14,9,11,3300,1,0
+Santo Domingo,Trece de Noviembre,K,M,tarde_valle,4,0,8.288,0,1,0,0.49,6,1,3300,1,0
+Trece de Noviembre,Envigado,M,A,tarde_pico,4,0,7.984,0,0,0,0.76,5,14,3300,1,1
+Alpujarra,Santo Domingo,A,K,noche,4,0,8.629,0,0,1,0.17,10,10,3300,1,1
+Aguacatala,Tricentenario,A,A,madrugada,3,0,9.82,1,0,0,0.12,10,13,3300,0,0
+San Javier,Suramericana,B,B,madrugada,1,0,3.083,1,1,0,0.1,12,15,3300,0,0
+Trinidad,Envigado,B,A,madrugada,2,0,7.854,0,0,0,0.11,14,15,3300,1,0
+Andalucía,Villa Sierra,K,K,tarde_valle,4,0,1.046,1,0,0,0.28,4,12,3300,0,0
+Andalucía,Caribe,K,A,tarde_valle,5,0,2.883,0,0,0,0.45,7,1,3300,1,1
+Itagüí,Bicentenario,A,T,tarde_pico,7,1,10.96,0,0,0,0.93,3,17,3300,1,1
+San Antonio,Miraflores,A,T,mañana_pico,2,0,1.095,0,1,1,0.82,4,16,3300,1,1
+Parque Berrío,Tricentenario,A,A,mañana_pico,4,0,4.585,1,0,0,0.82,4,16,3300,0,1
+Tricentenario,Suramericana,A,B,mañana_valle,2,0,4.823,0,0,0,0.48,7,7,3300,1,1
+Loyola,Universidad,T,A,mañana_pico,3,0,3.744,0,0,0,0.75,5,11,3300,1,1
+Arví,Suramericana,L,B,mañana_valle,4,0,10.803,0,0,0,0.38,8,5,3300,1,1
+La Estrella,Floresta,A,B,tarde_valle,6,0,10.35,0,0,0,0.3,6,6,3300,1,0
+Miraflores,San Javier,T,B,mañana_valle,6,0,5.438,0,1,1,0.47,7,8,3300,1,0
+San Javier,Miraflores,B,T,mañana_valle,7,0,5.438,0,1,1,0.39,8,7,3300,1,0
+La Independencia,La Aurora,K,J,mañana_pico,6,0,10.641,0,0,0,0.94,2,15,3300,1,1
+Industriales,Loyola,A,T,mañana_valle,7,0,5.004,0,0,0,0.5,7,16,3300,1,0
+Prado,La Sierra,A,M,mañana_valle,2,0,2.974,0,0,0,0.36,5,14,3300,1,0
+Suramericana,Tricentenario,B,A,tarde_pico,5,0,4.823,0,0,0,0.82,5,18,3300,1,1
+Juan XXIII,Alejandro Echavarría,J,T,tarde_valle,1,0,7.223,0,0,0,0.45,6,18,3300,1,0
+Santo Domingo,La Sierra,K,M,madrugada,1,0,9.069,0,1,0,0.18,13,6,3300,1,0
+La Sierra,Arví,M,L,madrugada,5,0,9.026,0,0,0,0.2,14,11,3300,1,0
+Bicentenario,Universidad,T,A,madrugada,1,0,2.911,0,0,0,0.13,11,15,3300,1,0
+Trinidad,Alejandro Echavarría,B,T,tarde_pico,7,0,3.782,0,0,0,0.87,3,12,3300,1,1
+Bello,Oriente,A,T,madrugada,3,0,12.145,0,0,0,0.14,9,4,3300,1,0
+Parque Berrío,Trinidad,A,B,mañana_valle,3,0,2.463,0,0,0,0.41,5,17,3300,1,1
+Asomadera,Santa Lucía,T,B,tarde_pico,1,0,6.859,0,0,0,0.81,5,11,3300,1,1
+Tricentenario,San Javier,A,B,madrugada,7,0,5.93,0,0,1,0.1,13,4,3300,1,0
+San Antonio,Ayurá,A,A,tarde_valle,2,0,6.278,1,1,0,0.39,6,18,3300,0,0
+Bicentenario,Asomadera,T,T,mañana_pico,7,0,1.792,1,0,0,0.8,5,13,3300,0,1
+Bello,Trece de Noviembre,A,M,mañana_pico,4,0,11.348,0,0,0,0.9,5,1,3300,1,1
+Industriales,Poblado,A,A,mañana_valle,7,0,2.179,1,0,0,0.5,8,4,3300,0,0
+La Aurora,Alpujarra,J,A,mañana_valle,3,0,7.355,0,0,0,0.35,4,9,3300,1,1
+Oriente,La Aurora,T,J,noche,3,0,12.15,0,0,0,0.27,10,13,3300,1,1
+La Independencia,Hospital,K,A,mañana_valle,3,0,5.716,0,0,0,0.51,8,6,3300,1,0
+La Estrella,Trece de Noviembre,A,M,tarde_valle,1,0,11.239,0,0,0,0.42,6,4,3300,1,1
+Aguacatala,San Javier,A,B,madrugada,2,0,6.666,0,0,1,0.14,10,17,3300,1,0
+Suramericana,Bicentenario,B,T,tarde_valle,2,0,3.582,0,0,0,0.39,7,6,3300,1,1
+Oriente,La Sierra,T,M,tarde_valle,6,0,3.148,0,0,0,0.48,5,18,3300,1,0
+San Antonio,Juan XXIII,A,J,mañana_valle,2,0,5.592,0,1,0,0.35,7,2,3300,1,1
+Santa Lucía,Niquía,B,A,tarde_pico,2,0,10.524,0,0,0,0.75,5,18,3300,1,1
+Juan XXIII,Oriente,J,T,tarde_pico,6,0,10.171,0,0,0,0.82,5,16,3300,1,1
+San Antonio,Caribe,A,A,tarde_valle,1,0,3.668,1,1,0,0.45,5,10,3300,0,0
+Madera,Itagüí,A,A,mañana_pico,5,0,16.988,1,0,0,0.82,5,16,3300,0,1
+Andalucía,Juan XXIII,K,J,madrugada,5,0,7.771,0,0,0,0.11,13,18,3300,1,0
+Madera,Loyola,A,T,tarde_valle,2,0,9.561,0,0,0,0.5,4,8,3300,1,1
+La Estrella,Madera,A,A,tarde_pico,3,0,18.071,1,0,0,0.79,2,15,3300,0,1
+Hospital,Ayurá,A,A,mañana_pico,7,0,8.059,1,0,0,0.92,5,6,3300,0,1
+Arví,Prado,L,A,mañana_pico,7,1,8.762,0,0,0,0.76,4,18,3300,1,1
+Envigado,Arví,A,L,tarde_valle,2,0,16.613,0,0,0,0.33,9,10,3300,1,0
+Itagüí,La Independencia,A,K,mañana_valle,7,0,17.086,0,0,0,0.53,4,5,3300,1,0
+Alejandro Echavarría,Acevedo,T,A,mañana_valle,7,0,6.422,0,0,1,0.48,5,8,3300,1,0
+Parque Berrío,Floresta,A,B,mañana_pico,7,0,3.958,0,0,0,0.85,3,9,3300,1,1
+Trece de Noviembre,Alejandro Echavarría,M,T,tarde_pico,4,0,0.952,0,0,0,0.72,2,13,3300,1,1
+Juan XXIII,Envigado,J,A,noche,3,0,9.402,0,0,0,0.24,9,11,3300,1,0
+La Independencia,Niquía,K,A,noche,1,0,7.409,0,0,0,0.3,9,12,3300,1,0
+Tricentenario,Andalucía,A,K,tarde_pico,2,0,1.758,0,0,0,0.94,3,16,3300,1,1
+Envigado,Floresta,A,B,mañana_valle,3,0,8.194,0,0,0,0.44,5,16,3300,1,1
+Floresta,Acevedo,B,A,madrugada,1,0,6.377,0,0,1,0.16,15,1,3300,1,0
+Hospital,Alpujarra,A,A,tarde_pico,4,0,2.267,1,0,0,0.7,5,7,3300,0,0
+Prado,San Javier,A,B,mañana_pico,7,0,4.943,0,0,1,0.82,4,9,3300,1,1
+Caribe,Suramericana,A,B,noche,6,0,3.745,0,0,0,0.18,9,10,3300,1,0
+Poblado,Buenos Aires,A,T,noche,1,0,5.413,0,0,0,0.29,6,7,3300,1,0
+Asomadera,Tricentenario,T,A,mañana_pico,5,0,6.16,0,0,0,0.81,5,1,3300,1,1
+Niquía,Santa Lucía,A,B,madrugada,7,0,10.524,0,0,0,0.11,9,8,3300,1,0
+Suramericana,Caribe,B,A,noche,7,1,3.745,0,0,0,0.21,8,5,3300,1,0
+Suramericana,Prado,B,A,noche,6,0,2.049,0,0,0,0.18,10,1,3300,1,0
+Arví,San Antonio,L,A,tarde_pico,3,0,9.741,0,0,1,0.88,3,14,3300,1,1
+Arví,Buenos Aires,L,T,mañana_pico,1,0,7.292,0,0,0,0.97,3,4,3300,1,1
+La Independencia,Suramericana,K,B,mañana_valle,4,0,7.87,0,0,0,0.38,5,8,3300,1,0
+Envigado,Caribe,A,A,mañana_pico,5,0,11.494,1,0,0,0.9,4,1,3300,0,1
+La Estrella,Industriales,A,A,tarde_valle,5,0,8.977,1,0,0,0.38,9,13,3300,0,0
+Itagüí,Acevedo,A,A,mañana_pico,4,0,15.351,1,0,1,0.85,3,16,3300,0,1
+Trece de Noviembre,Santo Domingo,M,K,madrugada,5,0,8.288,0,0,1,0.19,8,12,3300,1,0
+San Javier,Prado,B,A,tarde_pico,7,0,4.943,0,1,0,0.81,3,16,3300,1,1
+Tricentenario,Bello,A,A,tarde_valle,1,0,5.677,1,0,0,0.25,5,2,3300,0,0
+Acevedo,Alejandro Echavarría,A,T,tarde_valle,3,0,6.422,0,1,0,0.41,8,14,3300,1,0
+Bicentenario,Miraflores,T,T,madrugada,6,0,1.2,1,0,1,0.15,10,9,3300,0,0
+Caribe,San Javier,A,B,madrugada,5,0,5.312,0,0,1,0.19,10,18,3300,1,0
+San Javier,Alejandro Echavarría,B,T,tarde_valle,6,0,6.091,0,1,0,0.44,9,3,3300,1,0
+La Estrella,Buenos Aires,A,T,noche,7,1,12.763,0,0,0,0.2,9,4,3300,1,0
+Loyola,Trece de Noviembre,T,M,tarde_valle,1,0,2.14,0,0,0,0.33,9,6,3300,1,0
+Hospital,Niquía,A,A,noche,2,0,10.262,1,0,0,0.29,7,16,3300,0,0
+Santa Lucía,La Aurora,B,J,tarde_valle,7,0,4.921,0,0,0,0.31,6,5,3300,1,0
+Envigado,Hospital,A,A,madrugada,3,0,9.747,1,0,0,0.18,12,17,3300,0,0
+Tricentenario,Envigado,A,A,noche,5,0,12.62,1,0,0,0.28,9,15,3300,0,0
+Juan XXIII,Trinidad,J,B,madrugada,4,0,3.53,0,0,0,0.19,10,12,3300,1,0
+San Antonio,Envigado,A,A,madrugada,5,0,7.943,1,1,0,0.17,9,8,3300,0,0
+Juan XXIII,Niquía,J,A,madrugada,7,0,9.602,0,0,0,0.12,15,12,3300,1,0
+Suramericana,Parque Berrío,B,A,mañana_pico,7,1,1.723,0,0,0,0.95,5,8,3300,1,1
+San Javier,Aguacatala,B,A,tarde_pico,6,0,6.666,0,1,0,0.78,2,12,3300,1,1
+Hospital,Vallejuelos,A,J,noche,1,0,6.937,0,0,0,0.19,12,17,3300,1,1
+Madera,Alejandro Echavarría,A,T,madrugada,4,0,8.698,0,0,0,0.19,12,11,3300,1,0
+Caribe,Villa Sierra,A,K,tarde_pico,1,0,3.465,0,0,0,0.79,4,10,3300,1,1
+Arví,Aguacatala,L,A,tarde_pico,3,0,13.546,0,0,0,0.85,5,7,3300,1,1
+La Aurora,Aguacatala,J,A,mañana_pico,1,0,9.886,0,0,0,0.98,2,8,3300,1,1
+La Aurora,Santa Lucía,J,B,noche,7,0,4.921,0,0,0,0.15,8,1,3300,1,0
+Suramericana,La Estrella,B,A,madrugada,2,0,10.558,0,0,0,0.15,11,14,3300,1,0
+Oriente,Acevedo,T,A,mañana_pico,6,0,7.968,0,0,1,0.82,2,8,3300,1,1
+Vallejuelos,Alejandro Echavarría,J,T,noche,3,0,8.276,0,0,0,0.24,11,3,3300,1,0
+La Independencia,Universidad,K,A,tarde_valle,2,0,4.928,0,0,0,0.41,7,3,3300,1,1
+La Independencia,Villa Sierra,K,K,madrugada,4,0,0.988,1,0,0,0.17,10,8,3300,0,0
+Itagüí,Ayurá,A,A,mañana_valle,7,0,4.031,1,0,0,0.51,6,11,3300,0,0
+Buenos Aires,Envigado,T,A,mañana_pico,1,0,9.456,0,0,0,0.99,3,4,3300,1,1
+Parque Berrío,Universidad,A,A,mañana_pico,4,0,2.282,1,0,0,0.87,5,4,3300,0,1
+La Aurora,Santa Lucía,J,B,mañana_pico,4,0,4.921,0,0,0,0.83,4,4,3300,1,1
+Caribe,Alpujarra,A,A,noche,3,0,4.007,1,0,0,0.32,11,2,3300,0,0
+Industriales,Floresta,A,B,mañana_pico,1,0,3.238,0,0,0,0.93,4,13,3300,1,1
+Juan XXIII,Acevedo,J,A,noche,3,0,6.821,0,0,1,0.2,7,1,3300,1,0
+Miraflores,Loyola,T,T,tarde_valle,6,0,2.389,1,1,0,0.39,4,15,3300,0,0
+Universidad,Parque Berrío,A,A,madrugada,1,0,2.282,1,0,0,0.11,11,5,3300,0,0
+Exposiciones,Alejandro Echavarría,A,T,mañana_valle,6,0,2.837,0,0,0,0.46,4,9,3300,1,0
+Tricentenario,Bello,A,A,madrugada,2,0,5.677,1,0,0,0.19,15,5,3300,0,0
+Caribe,Santa Lucía,A,B,madrugada,1,0,4.305,0,0,0,0.19,8,6,3300,1,0
+Villa Sierra,Bicentenario,K,T,noche,4,0,6.635,0,0,0,0.25,9,14,3300,1,0
+Alpujarra,Trinidad,A,B,mañana_pico,2,0,1.701,0,0,0,0.82,5,5,3300,1,1
+Madera,Trece de Noviembre,A,M,tarde_valle,5,0,9.477,0,0,0,0.31,6,16,3300,1,0
+Alejandro Echavarría,Villa Sierra,T,K,tarde_pico,1,0,6.574,0,0,0,0.72,5,5,3300,1,1
+Alejandro Echavarría,Exposiciones,T,A,noche,7,0,2.837,0,0,0,0.28,12,18,3300,1,0
+Bello,Miraflores,A,T,noche,3,0,10.337,0,0,1,0.25,12,16,3300,1,0
+Santa Lucía,La Independencia,B,K,tarde_valle,3,0,8.455,0,0,0,0.35,5,1,3300,1,0
+San Javier,Arví,B,L,mañana_pico,1,0,13.404,0,1,0,0.97,4,2,3300,1,1
+Asomadera,La Aurora,T,J,mañana_valle,7,0,11.519,0,0,0,0.36,5,4,3300,1,0
+Aguacatala,Ayurá,A,A,mañana_valle,5,0,1.281,1,0,0,0.5,4,8,3300,0,0
+Villa Sierra,Suramericana,K,B,mañana_valle,7,0,7.209,0,0,0,0.34,5,11,3300,1,0
+Santa Lucía,Santo Domingo,B,K,madrugada,6,0,9.301,0,0,1,0.17,10,7,3300,1,0
+Oriente,Andalucía,T,K,mañana_valle,2,0,7.521,0,0,0,0.42,4,2,3300,1,0
+Poblado,Arví,A,L,mañana_pico,1,0,12.68,0,0,0,0.88,2,11,3300,1,1
+Arví,Exposiciones,L,A,mañana_pico,3,0,10.93,0,0,0,0.93,4,2,3300,1,1
+Bello,San Antonio,A,A,tarde_valle,6,0,10.217,1,0,1,0.48,4,17,3300,0,0
+Trinidad,Tricentenario,B,A,mañana_valle,6,0,4.948,0,0,0,0.54,7,4,3300,1,0
+Floresta,La Estrella,B,A,mañana_valle,2,0,10.35,0,0,0,0.54,7,16,3300,1,1
+La Sierra,San Javier,M,B,mañana_pico,6,0,6.916,0,0,1,0.99,4,8,3300,1,1
+La Independencia,Alpujarra,K,A,tarde_pico,3,0,7.965,0,0,0,0.88,4,5,3300,1,1
+Alpujarra,Niquía,A,A,noche,5,0,11.752,1,0,0,0.23,12,2,3300,0,0
+Alpujarra,Arví,A,L,mañana_valle,7,0,10.302,0,0,0,0.36,8,4,3300,1,0
+Oriente,Parque Berrío,T,A,mañana_valle,6,0,4.297,0,0,0,0.32,6,11,3300,1,0
+San Antonio,La Sierra,A,M,madrugada,7,0,2.679,0,1,0,0.16,13,15,3300,1,0
+Niquía,Envigado,A,A,mañana_pico,2,0,18.5,1,0,0,0.92,4,9,3300,0,1
+Universidad,Niquía,A,A,madrugada,4,0,9.463,1,0,0,0.14,14,6,3300,0,0
+Alejandro Echavarría,Juan XXIII,T,J,tarde_pico,3,0,7.223,0,0,0,0.84,2,16,3300,1,1
+Villa Sierra,Poblado,K,A,mañana_pico,4,0,10.838,0,0,0,0.77,2,10,3300,1,1
+Bello,Floresta,A,B,mañana_valle,1,0,9.22,0,0,0,0.32,5,13,3300,1,1
+San Antonio,Tricentenario,A,A,tarde_valle,1,0,4.856,1,1,0,0.33,8,16,3300,0,0
+Bello,Buenos Aires,A,T,noche,2,0,11.112,0,0,0,0.27,9,6,3300,1,0
+Acevedo,Hospital,A,A,mañana_valle,2,0,4.699,1,1,0,0.54,7,18,3300,0,0
+La Aurora,Ayurá,J,A,noche,3,0,10.87,0,0,0,0.21,6,2,3300,1,0
+Miraflores,La Independencia,T,K,tarde_valle,7,0,7.007,0,1,0,0.26,4,14,3300,1,0
+Caribe,La Estrella,A,A,noche,6,0,14.303,1,0,0,0.27,7,4,3300,0,0
+Bello,Poblado,A,A,mañana_pico,6,0,13.717,1,0,0,0.82,2,16,3300,0,1
+Hospital,San Javier,A,B,tarde_pico,4,0,5.018,0,0,1,0.82,4,3,3300,1,1
+La Sierra,La Aurora,M,J,tarde_pico,2,0,10.286,0,0,0,0.79,5,12,3300,1,1
+Alpujarra,Loyola,A,T,madrugada,3,0,3.969,0,0,0,0.14,12,8,3300,1,0
+Envigado,La Independencia,A,K,madrugada,2,0,15.463,0,0,0,0.18,9,3,3300,1,0
+Santa Lucía,Andalucía,B,K,tarde_pico,7,0,6.884,0,0,0,0.84,5,17,3300,1,1
+Alejandro Echavarría,Andalucía,T,K,noche,7,0,6.374,0,0,0,0.26,7,16,3300,1,0
+La Estrella,Caribe,A,A,tarde_pico,7,0,14.303,1,0,0,0.83,3,4,3300,0,0
+Buenos Aires,Alpujarra,T,A,mañana_pico,2,0,3.342,0,0,0,0.95,3,2,3300,1,1
+Bicentenario,Caribe,T,A,noche,4,0,4.053,0,0,0,0.19,12,5,3300,1,0
+Santo Domingo,Ayurá,K,A,mañana_valle,6,0,14.288,0,1,0,0.53,4,3,3300,1,0
+Suramericana,Villa Sierra,B,K,tarde_pico,5,0,7.209,0,0,0,0.78,4,17,3300,1,1
+Loyola,Niquía,T,A,noche,5,0,12.976,0,0,0,0.27,12,14,3300,1,0
+Hospital,Bicentenario,A,T,mañana_pico,2,0,2.234,0,0,0,0.89,2,4,3300,1,1
+Villa Sierra,Universidad,K,A,mañana_valle,7,0,4.372,0,0,0,0.39,7,9,3300,1,0
+Suramericana,Juan XXIII,B,J,tarde_valle,5,0,4.276,0,0,0,0.37,5,9,3300,1,1
+Miraflores,Parque Berrío,T,A,tarde_valle,5,0,0.663,0,1,0,0.42,7,2,3300,1,0
+Miraflores,Floresta,T,B,noche,2,0,4.621,0,1,0,0.16,9,9,3300,1,0
+Trinidad,Bello,B,A,mañana_valle,7,0,9.525,0,0,0,0.38,7,4,3300,1,0
+Poblado,Prado,A,A,mañana_valle,6,0,4.908,1,0,0,0.41,6,9,3300,0,0
+Alejandro Echavarría,Arví,T,L,noche,1,0,8.148,0,0,0,0.19,7,14,3300,1,0
+Oriente,La Aurora,T,J,mañana_valle,7,1,12.15,0,0,0,0.5,4,10,3300,1,0
+Juan XXIII,Miraflores,J,T,mañana_pico,7,0,6.58,0,0,1,0.97,2,6,3300,1,1
+Exposiciones,Industriales,A,A,madrugada,2,0,0.849,1,0,0,0.1,8,12,3300,0,0
+Exposiciones,Itagüí,A,A,mañana_valle,7,0,8.492,1,0,0,0.4,4,1,3300,0,0
+Aguacatala,Suramericana,A,B,tarde_pico,5,0,5.148,0,0,0,0.81,5,18,3300,1,1
+Santa Lucía,Trinidad,B,B,mañana_pico,7,0,0.756,1,0,0,0.94,2,10,3300,0,1
+Bello,Miraflores,A,T,madrugada,2,0,10.337,0,0,1,0.19,11,8,3300,1,0
+La Sierra,Poblado,M,A,noche,2,0,3.698,0,0,0,0.2,9,17,3300,1,0
+Bello,Niquía,A,A,tarde_pico,2,0,1.556,1,0,0,0.86,2,8,3300,0,1
+Ayurá,Arví,A,L,mañana_valle,6,0,14.539,0,0,0,0.54,6,14,3300,1,0
+Suramericana,Santa Lucía,B,B,tarde_pico,3,0,1.509,1,0,0,0.75,4,17,3300,0,1
+Arví,Miraflores,L,T,tarde_valle,1,0,8.706,0,0,1,0.25,9,12,3300,1,0
+Andalucía,Arví,K,L,tarde_valle,3,0,8.028,0,0,0,0.32,4,16,3300,1,0
+Tricentenario,Santa Lucía,A,B,mañana_valle,6,0,5.161,0,0,0,0.38,6,9,3300,1,0
+La Sierra,La Estrella,M,A,mañana_pico,2,0,10.961,0,0,0,0.88,3,2,3300,1,1
+Santo Domingo,Miraflores,K,T,noche,3,0,7.538,0,1,1,0.29,11,1,3300,1,0
+La Sierra,Oriente,M,T,mañana_valle,3,0,3.148,0,0,0,0.53,7,13,3300,1,1
+Madera,Santo Domingo,A,K,noche,5,0,5.355,0,0,1,0.31,8,8,3300,1,0
+La Aurora,La Sierra,J,M,tarde_pico,6,0,10.286,0,0,0,0.79,4,6,3300,1,1
+Andalucía,Alpujarra,K,A,mañana_valle,1,0,6.889,0,0,0,0.42,6,18,3300,1,1
+Alpujarra,Santa Lucía,A,B,noche,1,0,2.449,0,0,0,0.19,7,10,3300,1,0
+Alejandro Echavarría,Floresta,T,B,mañana_valle,3,0,5.275,0,0,0,0.45,7,4,3300,1,1
+Asomadera,Acevedo,T,A,noche,5,0,7.561,0,0,1,0.27,10,3,3300,1,0
+Asomadera,Exposiciones,T,A,tarde_valle,1,0,5.078,0,0,0,0.47,7,17,3300,1,0
+La Estrella,Bicentenario,A,T,madrugada,7,0,12.414,0,0,0,0.11,11,11,3300,1,0
+Alejandro Echavarría,La Independencia,T,K,tarde_pico,2,0,6.883,0,0,0,0.78,3,3,3300,1,1
+Oriente,Floresta,T,B,noche,2,0,8.248,0,0,0,0.21,6,1,3300,1,0
+Buenos Aires,Envigado,T,A,mañana_pico,7,0,9.456,0,0,0,0.89,3,16,3300,1,1
+Caribe,Parque Berrío,A,A,tarde_valle,4,0,3.386,1,0,0,0.41,7,14,3300,0,0
+Asomadera,Suramericana,T,B,madrugada,1,0,5.374,0,0,0,0.15,13,1,3300,1,0
+San Javier,La Aurora,B,J,mañana_pico,1,0,3.436,0,1,0,0.92,3,8,3300,1,1
+Santa Lucía,La Estrella,B,A,mañana_pico,1,0,10.357,0,0,0,0.85,4,6,3300,1,1
+Tricentenario,Madera,A,A,mañana_valle,3,0,3.79,1,0,0,0.41,8,17,3300,0,0
+Floresta,Buenos Aires,B,T,noche,2,0,6.371,0,0,0,0.22,9,12,3300,1,0
+Exposiciones,San Antonio,A,A,tarde_pico,1,0,1.208,1,0,1,0.76,3,7,3300,0,1
+Bello,Santo Domingo,A,K,tarde_valle,2,0,6.677,0,0,1,0.28,9,2,3300,1,0
+Suramericana,La Sierra,B,M,mañana_valle,7,0,3.905,0,0,0,0.31,4,4,3300,1,0
+La Sierra,Bello,M,A,madrugada,6,0,12.439,0,0,0,0.11,15,13,3300,1,0
+Hospital,Villa Sierra,A,K,mañana_valle,4,0,5.209,0,0,0,0.48,5,1,3300,1,0
+La Estrella,Bicentenario,A,T,noche,1,0,12.414,0,0,0,0.28,8,5,3300,1,0
+Alejandro Echavarría,Universidad,T,A,tarde_valle,6,0,2.604,0,0,0,0.4,6,4,3300,1,0
+Universidad,Juan XXIII,A,J,mañana_pico,5,0,6.023,0,0,0,0.8,4,17,3300,1,1
+Exposiciones,Trinidad,A,B,noche,4,0,1.616,0,0,0,0.21,6,18,3300,1,1
+Oriente,Industriales,T,A,noche,4,0,6.19,0,0,0,0.22,6,1,3300,1,0
+Caribe,Prado,A,A,tarde_valle,6,0,2.765,1,0,0,0.37,4,17,3300,0,0
+Tricentenario,Hospital,A,A,mañana_valle,6,0,3.213,1,0,0,0.36,6,9,3300,0,0
+Loyola,Acevedo,T,A,madrugada,7,1,7.233,0,0,1,0.1,12,12,3300,1,0
+San Javier,Buenos Aires,B,T,noche,1,0,7.188,0,1,0,0.17,12,2,3300,1,1
+Niquía,Parque Berrío,A,A,noche,6,0,11.485,1,0,0,0.18,8,15,3300,0,0
+Arví,Envigado,L,A,noche,1,0,16.613,0,0,0,0.22,8,6,3300,1,0
+Hospital,Alejandro Echavarría,A,T,tarde_pico,4,0,1.843,0,0,0,0.77,5,16,3300,1,1
+Alejandro Echavarría,San Antonio,T,A,madrugada,2,0,1.746,0,0,1,0.17,8,6,3300,1,0
+Universidad,Bicentenario,A,T,tarde_valle,4,0,2.911,0,0,0,0.45,9,15,3300,1,1
+Alpujarra,Trece de Noviembre,A,M,tarde_pico,7,0,2.03,0,0,0,0.71,3,16,3300,1,1
+Oriente,Hospital,T,A,tarde_pico,4,0,4.363,0,0,0,0.71,4,11,3300,1,1
+Niquía,La Aurora,A,J,noche,5,0,8.937,0,0,0,0.29,7,11,3300,1,0
+Vallejuelos,La Aurora,J,J,noche,6,0,1.029,1,0,0,0.27,9,8,3300,0,0
+Asomadera,Santa Lucía,T,B,noche,6,0,6.859,0,0,0,0.28,7,18,3300,1,0
+Arví,Acevedo,L,A,madrugada,6,0,9.028,0,0,1,0.19,15,16,3300,1,0
+San Antonio,Tricentenario,A,A,tarde_pico,3,0,4.856,1,1,0,0.76,4,2,3300,0,1
+Juan XXIII,Poblado,J,A,tarde_valle,6,0,6.933,0,0,0,0.34,5,3,3300,1,0
+Loyola,Buenos Aires,T,T,tarde_valle,4,0,0.634,1,0,0,0.27,7,15,3300,0,0
+San Javier,Hospital,B,A,tarde_pico,6,0,5.018,0,1,0,0.86,2,13,3300,1,1
+Alejandro Echavarría,Madera,T,A,tarde_valle,5,0,8.698,0,0,0,0.25,4,10,3300,1,0
+Juan XXIII,Villa Sierra,J,K,mañana_pico,6,0,8.743,0,0,0,0.92,4,12,3300,1,1
+Acevedo,Aguacatala,A,A,tarde_pico,3,0,11.203,1,1,0,0.84,5,12,3300,0,1
+Buenos Aires,Hospital,T,A,madrugada,7,0,2.678,0,0,0,0.1,13,10,3300,1,0
+Andalucía,Vallejuelos,K,J,mañana_valle,6,0,8.154,0,0,0,0.33,5,16,3300,1,0
+Prado,Bicentenario,A,T,madrugada,3,0,1.816,0,0,0,0.16,11,4,3300,1,0
+Miraflores,Industriales,T,A,tarde_pico,7,0,2.916,0,1,0,0.88,2,14,3300,1,1
+Madera,La Sierra,A,M,noche,5,0,10.563,0,0,0,0.17,9,15,3300,1,0
+La Independencia,Juan XXIII,K,J,mañana_pico,4,0,9.667,0,0,0,0.75,2,18,3300,1,1
+Bicentenario,Santo Domingo,T,K,tarde_pico,5,0,7.252,0,0,1,0.9,3,6,3300,1,1
+Prado,Universidad,A,A,tarde_pico,6,0,1.629,1,0,0,0.85,4,17,3300,0,1
+Suramericana,Bicentenario,B,T,tarde_valle,6,0,3.582,0,0,0,0.44,6,13,3300,1,0
+Floresta,Itagüí,B,A,tarde_pico,7,1,9.313,0,0,0,0.8,4,18,3300,1,1
+San Javier,Villa Sierra,B,K,noche,2,0,8.434,0,1,0,0.19,10,10,3300,1,0
+Santa Lucía,Prado,B,A,noche,6,0,3.422,0,0,0,0.35,7,17,3300,1,0
+La Aurora,La Sierra,J,M,mañana_valle,6,0,10.286,0,0,0,0.33,6,18,3300,1,0
+Asomadera,Santo Domingo,T,K,tarde_valle,6,0,7.156,0,0,1,0.43,9,18,3300,1,0
+Itagüí,Buenos Aires,A,T,madrugada,5,0,11.293,0,0,0,0.11,14,5,3300,1,0
+Acevedo,Tricentenario,A,A,mañana_pico,3,0,1.496,1,1,0,0.94,3,10,3300,0,1
+Ayurá,Parque Berrío,A,A,madrugada,6,0,6.639,1,0,0,0.18,11,18,3300,0,0
+Madera,Trinidad,A,B,tarde_pico,1,0,7.852,0,0,0,0.85,3,18,3300,1,1
+Suramericana,Aguacatala,B,A,tarde_valle,7,0,5.148,0,0,0,0.42,9,2,3300,1,0
+Suramericana,Miraflores,B,T,tarde_pico,7,0,2.382,0,0,1,0.78,2,1,3300,1,1
+Ayurá,Exposiciones,A,A,tarde_valle,7,0,5.407,1,0,0,0.47,5,12,3300,0,0
+La Independencia,La Aurora,K,J,noche,5,0,10.641,0,0,0,0.19,11,7,3300,1,0
+Itagüí,Loyola,A,T,mañana_pico,6,0,11.696,0,0,0,0.77,3,17,3300,1,1
+Hospital,Miraflores,A,T,madrugada,4,0,1.546,0,0,1,0.13,12,5,3300,1,0
+San Antonio,Santo Domingo,A,K,mañana_valle,1,0,8.153,0,1,1,0.38,5,2,3300,1,0
+Parque Berrío,Floresta,A,B,tarde_valle,1,0,3.958,0,0,0,0.44,9,10,3300,1,1
+Oriente,La Independencia,T,K,tarde_valle,3,0,7.19,0,0,0,0.27,9,11,3300,1,1
+Vallejuelos,Poblado,J,A,mañana_pico,5,0,8.038,0,0,0,0.77,3,14,3300,1,1
+La Aurora,Andalucía,J,K,tarde_pico,1,0,8.632,0,0,0,0.79,3,11,3300,1,1
+Floresta,Suramericana,B,B,mañana_valle,2,0,2.265,1,0,0,0.54,8,17,3300,0,0
+Asomadera,Villa Sierra,T,K,noche,1,0,7.038,0,0,0,0.17,8,15,3300,1,1
+Aguacatala,Trece de Noviembre,A,M,tarde_valle,2,0,4.89,0,0,0,0.49,9,11,3300,1,0
+Suramericana,Hospital,B,A,tarde_pico,3,0,2.422,0,0,0,0.84,4,1,3300,1,1
+Vallejuelos,Trinidad,J,B,tarde_valle,7,0,4.639,0,0,0,0.37,6,7,3300,1,0
+San Javier,Vallejuelos,B,J,madrugada,1,0,2.406,0,1,0,0.12,8,3,3300,1,0
+Industriales,La Sierra,A,M,mañana_pico,7,0,3.357,0,0,0,0.96,3,18,3300,1,1
+Bicentenario,Tricentenario,T,A,noche,6,0,5.167,0,0,0,0.18,9,11,3300,1,0
+Madera,Universidad,A,A,madrugada,1,0,6.099,1,0,0,0.12,12,18,3300,0,0
+Tricentenario,La Independencia,A,K,mañana_pico,3,0,3.375,0,0,0,0.85,5,13,3300,1,1
+Bicentenario,San Javier,T,B,madrugada,4,0,6.634,0,0,1,0.17,8,3,3300,1,0
+La Independencia,Madera,K,A,noche,7,1,4.466,0,0,0,0.34,6,10,3300,1,0
+La Estrella,Arví,A,L,madrugada,3,0,19.987,0,0,0,0.18,15,13,3300,1,0
+Miraflores,Bello,T,A,tarde_pico,2,0,10.337,0,1,0,0.83,3,13,3300,1,1
+La Aurora,Itagüí,J,A,noche,2,0,11.731,0,0,0,0.21,12,12,3300,1,1
+Niquía,Villa Sierra,A,K,tarde_valle,2,0,6.778,0,0,0,0.28,4,13,3300,1,0
+La Aurora,Villa Sierra,J,K,madrugada,3,0,9.666,0,0,0,0.12,13,7,3300,1,0
+Alejandro Echavarría,Vallejuelos,T,J,mañana_pico,2,0,8.276,0,0,0,0.8,4,7,3300,1,1
+Hospital,Exposiciones,A,A,noche,7,0,2.917,1,0,0,0.16,12,18,3300,0,0
+Loyola,Villa Sierra,T,K,madrugada,3,0,6.87,0,0,0,0.17,12,4,3300,1,0
+Exposiciones,Santo Domingo,A,K,tarde_pico,3,0,9.274,0,0,1,0.79,3,4,3300,1,1
+Itagüí,Trece de Noviembre,A,M,madrugada,2,0,9.787,0,0,0,0.13,15,11,3300,1,0
+Arví,La Estrella,L,A,noche,5,0,19.987,0,0,0,0.18,10,12,3300,1,0
+San Javier,Buenos Aires,B,T,mañana_pico,1,0,7.188,0,1,0,0.83,3,14,3300,1,1
+Envigado,Suramericana,A,B,mañana_pico,6,0,7.811,0,0,0,0.93,5,15,3300,1,1
+Buenos Aires,Santa Lucía,T,B,mañana_valle,4,0,5.624,0,0,0,0.44,5,3,3300,1,1
+Envigado,Prado,A,A,tarde_valle,2,0,9.035,1,0,0,0.32,9,3,3300,0,0
+Tricentenario,Bello,A,A,tarde_valle,6,0,5.677,1,0,0,0.26,8,13,3300,0,0
+La Independencia,Industriales,K,A,madrugada,5,0,9.442,0,0,0,0.13,15,5,3300,1,0
+Trinidad,Alejandro Echavarría,B,T,mañana_pico,7,0,3.782,0,0,0,0.96,3,15,3300,1,1
+Juan XXIII,Vallejuelos,J,J,madrugada,4,0,1.139,1,0,0,0.14,8,8,3300,0,0
+Arví,San Antonio,L,A,tarde_valle,2,0,9.741,0,0,1,0.36,5,5,3300,1,0
+Asomadera,Santa Lucía,T,B,madrugada,2,0,6.859,0,0,0,0.18,11,3,3300,1,0
+Ayurá,Suramericana,A,B,mañana_pico,1,0,6.421,0,0,0,0.92,4,13,3300,1,1
+Asomadera,Loyola,T,T,madrugada,1,0,0.603,1,0,0,0.2,13,4,3300,0,0
+Vallejuelos,La Sierra,J,M,mañana_valle,7,0,9.269,0,0,0,0.44,8,6,3300,1,0
+Suramericana,Miraflores,B,T,mañana_valle,5,0,2.382,0,0,1,0.46,4,17,3300,1,0
+Ayurá,Miraflores,A,T,mañana_pico,5,0,6.75,0,0,1,0.85,4,16,3300,1,1
+Asomadera,Arví,T,L,madrugada,5,0,6.375,0,0,0,0.19,15,6,3300,1,0
+Poblado,Tricentenario,A,A,tarde_valle,6,0,8.64,1,0,0,0.32,5,6,3300,0,0
+San Antonio,Suramericana,A,B,tarde_valle,6,0,1.328,0,1,0,0.45,9,8,3300,1,0
+Alejandro Echavarría,Floresta,T,B,noche,1,0,5.275,0,0,0,0.25,9,16,3300,1,0
+Industriales,Santo Domingo,A,K,mañana_pico,6,0,10.116,0,0,1,0.96,2,8,3300,1,1
+Madera,Parque Berrío,A,A,tarde_valle,5,0,8.209,1,0,0,0.29,9,17,3300,0,0
+Madera,La Independencia,A,K,mañana_pico,1,0,4.466,0,0,0,0.79,3,17,3300,1,1
+Miraflores,Arví,T,L,tarde_valle,6,0,8.706,0,1,0,0.25,9,10,3300,1,0
+Caribe,Poblado,A,A,tarde_pico,5,0,7.475,1,0,0,0.95,5,6,3300,0,1
+Poblado,Bicentenario,A,T,tarde_valle,2,0,5.054,0,0,0,0.45,5,17,3300,1,0
+Ayurá,San Antonio,A,A,noche,6,0,6.278,1,0,1,0.22,9,3,3300,0,0
+Poblado,Miraflores,A,T,tarde_pico,2,0,4.418,0,0,1,0.73,3,17,3300,1,1
+Juan XXIII,Alejandro Echavarría,J,T,mañana_pico,5,0,7.223,0,0,0,0.77,5,2,3300,1,1
+La Aurora,Juan XXIII,J,J,madrugada,1,0,2.168,1,0,0,0.15,10,18,3300,0,0
+Niquía,Buenos Aires,A,T,tarde_valle,4,0,12.632,0,0,0,0.34,4,17,3300,1,0
+Bicentenario,Poblado,T,A,tarde_pico,7,0,5.054,0,0,0,0.79,2,14,3300,1,1
+Prado,Envigado,A,A,tarde_pico,7,1,9.035,1,0,0,0.91,4,18,3300,0,1
+Alejandro Echavarría,Ayurá,T,A,mañana_pico,1,0,6.994,0,0,0,0.93,2,17,3300,1,1
+Hospital,La Aurora,A,J,madrugada,4,0,7.85,0,0,0,0.17,13,14,3300,1,0
+Trinidad,Universidad,B,A,mañana_pico,4,0,3.42,0,0,0,0.91,4,9,3300,1,1
+La Aurora,Bicentenario,J,T,tarde_valle,3,0,9.781,0,0,0,0.4,9,13,3300,1,0
+Industriales,Bicentenario,A,T,tarde_valle,7,0,3.922,0,0,0,0.29,8,18,3300,1,0
+Asomadera,Ayurá,T,A,mañana_valle,5,0,8.178,0,0,0,0.39,7,5,3300,1,0
+Hospital,Aguacatala,A,A,tarde_pico,7,0,6.795,1,0,0,0.74,3,17,3300,0,1
+Miraflores,Floresta,T,B,tarde_valle,5,0,4.621,0,1,0,0.42,9,2,3300,1,1
+San Antonio,Miraflores,A,T,noche,1,0,1.095,0,1,1,0.31,12,5,3300,1,0
+Asomadera,Arví,T,L,tarde_pico,1,0,6.375,0,0,0,0.72,3,12,3300,1,1
+Caribe,Arví,A,L,madrugada,6,0,8.383,0,0,0,0.14,14,17,3300,1,0
+Itagüí,Arví,A,L,madrugada,7,0,18.492,0,0,0,0.16,15,1,3300,1,0
+Exposiciones,La Aurora,A,J,mañana_valle,2,0,7.194,0,0,0,0.31,8,17,3300,1,0
+Vallejuelos,Poblado,J,A,tarde_valle,2,0,8.038,0,0,0,0.42,6,8,3300,1,0
+La Sierra,Niquía,M,A,mañana_pico,1,0,13.91,0,0,0,1.0,5,12,3300,1,1
+Miraflores,Alejandro Echavarría,T,T,tarde_valle,2,0,0.658,1,1,0,0.38,9,3,3300,0,0
+Caribe,Villa Sierra,A,K,mañana_valle,6,0,3.465,0,0,0,0.51,8,12,3300,1,0
+Santa Lucía,Envigado,B,A,mañana_pico,5,0,7.99,0,0,0,0.99,5,13,3300,1,1
+Villa Sierra,Niquía,K,A,mañana_valle,2,0,6.778,0,0,0,0.4,4,18,3300,1,0
+Tricentenario,Vallejuelos,A,J,mañana_valle,3,0,6.864,0,0,0,0.54,8,9,3300,1,0
+La Aurora,La Independencia,J,K,mañana_valle,6,0,10.641,0,0,0,0.41,7,16,3300,1,0
+Aguacatala,Santa Lucía,A,B,tarde_pico,6,0,5.743,0,0,0,0.82,2,16,3300,1,1
+Hospital,Envigado,A,A,madrugada,4,0,9.747,1,0,0,0.16,11,8,3300,0,0
+San Javier,Bicentenario,B,T,mañana_valle,5,0,6.634,0,1,0,0.43,6,8,3300,1,0
+Itagüí,Caribe,A,A,tarde_pico,6,0,13.031,1,0,0,0.89,4,3,3300,0,1
+Andalucía,Alpujarra,K,A,tarde_pico,3,0,6.889,0,0,0,0.79,4,6,3300,1,1
+Exposiciones,Juan XXIII,A,J,noche,2,0,5.035,0,0,0,0.2,7,9,3300,1,1
+Industriales,Aguacatala,A,A,mañana_pico,7,1,3.344,1,0,0,0.9,3,4,3300,0,0
+Hospital,Caribe,A,A,noche,6,0,2.017,1,0,0,0.25,6,18,3300,0,0
+Madera,Oriente,A,T,mañana_valle,5,0,10.285,0,0,0,0.38,8,9,3300,1,1
+Oriente,Alpujarra,T,A,tarde_valle,3,0,5.211,0,0,0,0.35,8,5,3300,1,1
+Acevedo,La Aurora,A,J,tarde_pico,4,0,7.577,0,1,0,0.93,2,17,3300,1,1
+Santa Lucía,Alejandro Echavarría,B,T,noche,7,1,4.527,0,0,0,0.35,11,17,3300,1,0
+Loyola,San Javier,T,B,noche,1,0,7.819,0,0,1,0.15,7,13,3300,1,0
+La Independencia,Universidad,K,A,mañana_valle,3,0,4.928,0,0,0,0.45,6,6,3300,1,0
+Andalucía,Ayurá,K,A,mañana_pico,3,0,12.811,0,0,0,0.87,4,12,3300,1,1
+Alpujarra,Juan XXIII,A,J,tarde_pico,2,0,5.23,0,0,0,0.8,4,12,3300,1,1
+Miraflores,Envigado,T,A,tarde_pico,2,0,8.569,0,1,0,0.84,3,4,3300,1,1
+Envigado,Aguacatala,A,A,tarde_valle,4,0,3.1,1,0,0,0.46,5,5,3300,0,0
+Parque Berrío,Oriente,A,T,madrugada,2,0,4.297,0,0,0,0.14,10,17,3300,1,0
+La Aurora,San Javier,J,B,tarde_pico,3,0,3.436,0,0,1,0.76,2,13,3300,1,1
+Universidad,Alpujarra,A,A,madrugada,2,0,3.041,1,0,0,0.18,15,4,3300,0,0
+Buenos Aires,Floresta,T,B,mañana_valle,3,0,6.371,0,0,0,0.39,8,9,3300,1,0
+Santa Lucía,Bello,B,A,tarde_pico,1,0,9.343,0,0,0,0.79,3,18,3300,1,1
+Alpujarra,La Estrella,A,A,mañana_valle,3,0,10.464,1,0,0,0.47,7,15,3300,0,0
+Caribe,Miraflores,A,T,tarde_valle,3,0,3.561,0,0,1,0.37,5,6,3300,1,1
+Trece de Noviembre,Floresta,M,B,tarde_pico,6,0,5.222,0,0,0,0.85,5,3,3300,1,1
+Caribe,Alpujarra,A,A,mañana_valle,2,0,4.007,1,0,0,0.38,6,9,3300,0,1
+Santo Domingo,Miraflores,K,T,mañana_valle,4,0,7.538,0,1,1,0.5,6,17,3300,1,0
+Buenos Aires,Alejandro Echavarría,T,T,mañana_pico,2,0,1.098,1,0,0,0.96,3,8,3300,0,1
+Ayurá,Caribe,A,A,mañana_pico,2,0,9.93,1,0,0,0.85,2,3,3300,0,1
+Asomadera,Villa Sierra,T,K,madrugada,1,0,7.038,0,0,0,0.18,9,4,3300,1,0
+Ayurá,Trece de Noviembre,A,M,mañana_pico,1,0,6.059,0,0,0,0.91,5,10,3300,1,1
+Poblado,Ayurá,A,A,noche,3,0,2.462,1,0,0,0.24,7,5,3300,0,0
+Vallejuelos,San Antonio,J,A,madrugada,1,0,6.682,0,0,1,0.17,13,16,3300,1,0
+Loyola,Andalucía,T,K,mañana_valle,5,0,6.932,0,0,0,0.41,8,6,3300,1,0
+La Independencia,Arví,K,L,tarde_pico,6,0,6.304,0,0,0,0.89,5,17,3300,1,1
+Trece de Noviembre,La Sierra,M,M,tarde_valle,3,0,1.116,1,0,0,0.48,7,18,3300,0,0
+Poblado,Caribe,A,A,tarde_pico,3,0,7.475,1,0,0,0.79,4,5,3300,0,1
+La Estrella,Niquía,A,A,madrugada,5,0,20.557,1,0,0,0.18,10,12,3300,0,0
+Itagüí,Oriente,A,T,tarde_valle,1,0,12.563,0,0,0,0.42,7,16,3300,1,0
+La Estrella,Niquía,A,A,tarde_pico,7,1,20.557,1,0,0,0.76,2,18,3300,0,1
+Trinidad,Exposiciones,B,A,tarde_pico,5,0,1.616,0,0,0,0.81,3,6,3300,1,1
+La Sierra,Suramericana,M,B,tarde_pico,2,0,3.905,0,0,0,0.77,5,8,3300,1,1
+Vallejuelos,Trece de Noviembre,J,M,noche,6,0,8.338,0,0,0,0.2,11,18,3300,1,0
+Envigado,Bicentenario,A,T,mañana_pico,7,1,9.149,0,0,0,0.78,2,15,3300,1,1
+Arví,Buenos Aires,L,T,mañana_valle,6,0,7.292,0,0,0,0.46,5,11,3300,1,0
+Bello,San Antonio,A,A,madrugada,5,0,10.217,1,0,1,0.1,9,10,3300,0,0
+Envigado,Prado,A,A,noche,4,0,9.035,1,0,0,0.3,7,3,3300,0,0
+Parque Berrío,Niquía,A,A,tarde_pico,2,0,11.485,1,0,0,0.79,4,16,3300,0,1
+Trinidad,Asomadera,B,T,noche,7,1,6.116,0,0,0,0.17,12,5,3300,1,0
+Acevedo,Itagüí,A,A,tarde_pico,1,0,15.351,1,1,0,0.84,3,7,3300,0,1
+Ayurá,Miraflores,A,T,madrugada,1,0,6.75,0,0,1,0.2,11,13,3300,1,0
+Buenos Aires,Aguacatala,T,A,noche,1,0,6.357,0,0,0,0.19,11,4,3300,1,0
+Vallejuelos,Industriales,J,A,tarde_pico,4,0,6.342,0,0,0,0.87,4,11,3300,1,1
+San Antonio,La Sierra,A,M,noche,1,0,2.679,0,1,0,0.3,10,17,3300,1,0
+Hospital,Envigado,A,A,tarde_pico,6,0,9.747,1,0,0,0.77,4,2,3300,0,1
+Industriales,Hospital,A,A,mañana_pico,6,0,3.755,1,0,0,0.86,2,6,3300,0,1
+Envigado,Santo Domingo,A,K,madrugada,4,0,16.076,0,0,1,0.18,8,2,3300,1,0
+La Independencia,Asomadera,K,T,noche,5,0,7.018,0,0,0,0.18,12,3,3300,1,0
+Aguacatala,San Antonio,A,A,tarde_pico,1,0,5.007,1,0,1,0.87,4,2,3300,0,1
+Acevedo,Trinidad,A,B,noche,2,0,6.128,0,1,0,0.29,12,4,3300,1,0
+Prado,Juan XXIII,A,J,mañana_pico,3,0,6.014,0,0,0,1.0,4,15,3300,1,1
+Exposiciones,Bello,A,A,noche,4,0,10.797,1,0,0,0.22,7,9,3300,0,0
+Madera,Juan XXIII,A,J,noche,4,0,7.576,0,0,0,0.26,10,16,3300,1,0
+Exposiciones,La Independencia,A,K,mañana_pico,5,0,8.594,0,0,0,0.84,5,9,3300,1,1
+Santo Domingo,Andalucía,K,K,mañana_pico,1,0,3.04,1,1,0,0.88,5,10,3300,0,1
+Ayurá,Andalucía,A,K,mañana_valle,4,0,12.811,0,0,0,0.3,8,13,3300,1,1
+Alpujarra,Bello,A,A,tarde_valle,7,0,10.388,1,0,0,0.41,6,3,3300,0,0
+La Aurora,Suramericana,J,B,mañana_pico,5,0,6.388,0,0,0,0.92,3,10,3300,1,1
+San Javier,Bicentenario,B,T,noche,3,0,6.634,0,1,0,0.17,10,3,3300,1,0
+Madera,Parque Berrío,A,A,mañana_pico,7,1,8.209,1,0,0,0.78,3,4,3300,0,0
+Madera,La Independencia,A,K,noche,7,0,4.466,0,0,0,0.25,10,9,3300,1,0
+Acevedo,Suramericana,A,B,mañana_pico,5,0,6.118,0,1,0,0.93,2,7,3300,1,1
+La Sierra,Oriente,M,T,madrugada,4,0,3.148,0,0,0,0.18,8,12,3300,1,0
+Andalucía,Alejandro Echavarría,K,T,mañana_valle,7,0,6.374,0,0,0,0.51,6,17,3300,1,0
+Madera,Caribe,A,A,mañana_valle,1,0,4.928,1,0,0,0.54,8,4,3300,0,0
+Universidad,Aguacatala,A,A,tarde_valle,4,0,7.633,1,0,0,0.3,8,8,3300,0,0
+Villa Sierra,La Sierra,K,M,mañana_pico,5,0,8.439,0,0,0,0.94,5,4,3300,1,1
+Trece de Noviembre,Villa Sierra,M,K,mañana_valle,6,0,7.5,0,0,0,0.41,7,4,3300,1,0
+San Antonio,Exposiciones,A,A,tarde_valle,4,0,1.208,1,1,0,0.38,9,6,3300,0,0
+La Aurora,Arví,J,L,tarde_pico,3,0,15.763,0,0,0,0.93,4,12,3300,1,1
+Alejandro Echavarría,La Sierra,T,M,tarde_pico,7,0,1.894,0,0,0,0.85,3,13,3300,1,1
+Andalucía,Ayurá,K,A,mañana_valle,4,0,12.811,0,0,0,0.41,7,1,3300,1,0
+Madera,La Estrella,A,A,tarde_valle,1,0,18.071,1,0,0,0.38,6,1,3300,0,0
+La Estrella,Poblado,A,A,mañana_pico,7,0,7.36,1,0,0,0.94,4,18,3300,0,1
+Juan XXIII,Villa Sierra,J,K,tarde_valle,5,0,8.743,0,0,0,0.29,4,15,3300,1,1
+Santa Lucía,Parque Berrío,B,A,mañana_pico,3,0,3.208,0,0,0,0.84,3,8,3300,1,1
+Ayurá,San Javier,A,B,madrugada,5,0,7.765,0,0,1,0.14,11,3,3300,1,0
+San Javier,Oriente,B,T,mañana_pico,4,0,9.063,0,1,0,0.96,2,10,3300,1,1
+Madera,La Independencia,A,K,tarde_pico,1,0,4.466,0,0,0,0.9,4,12,3300,1,1
+Bicentenario,Alejandro Echavarría,T,T,madrugada,7,0,0.543,1,0,0,0.17,8,13,3300,0,0
+Acevedo,San Javier,A,B,tarde_valle,1,0,6.69,0,1,1,0.33,8,5,3300,1,0
+San Javier,Vallejuelos,B,J,noche,2,0,2.406,0,1,0,0.18,11,13,3300,1,1
+Buenos Aires,Arví,T,L,tarde_valle,5,0,7.292,0,0,0,0.27,7,10,3300,1,1
+Miraflores,Parque Berrío,T,A,mañana_pico,3,0,0.663,0,1,0,0.77,2,18,3300,1,1
+Miraflores,Ayurá,T,A,madrugada,4,0,6.75,0,1,0,0.15,10,5,3300,1,0
+Asomadera,Villa Sierra,T,K,mañana_pico,4,0,7.038,0,0,0,0.85,3,18,3300,1,1
+Arví,Vallejuelos,L,J,mañana_pico,2,0,15.002,0,0,0,0.77,5,11,3300,1,1
+Villa Sierra,Caribe,K,A,madrugada,6,0,3.465,0,0,0,0.14,13,12,3300,1,0
+Exposiciones,Floresta,A,B,mañana_valle,5,0,3.0,0,0,0,0.46,6,6,3300,1,0
+Santa Lucía,Trece de Noviembre,B,M,tarde_pico,5,0,4.467,0,0,0,0.74,2,8,3300,1,1
+Exposiciones,Suramericana,A,B,mañana_pico,7,0,1.083,0,0,0,0.77,2,8,3300,1,1
+Arví,Parque Berrío,L,A,mañana_valle,1,0,9.241,0,0,0,0.39,4,10,3300,1,0
+Buenos Aires,Oriente,T,T,madrugada,3,0,1.881,1,0,0,0.12,11,7,3300,0,0
+La Aurora,Vallejuelos,J,J,mañana_valle,5,0,1.029,1,0,0,0.42,5,1,3300,0,0
+Suramericana,Santo Domingo,B,K,noche,5,0,8.618,0,0,1,0.16,7,2,3300,1,0
+Itagüí,Exposiciones,A,A,noche,5,0,8.492,1,0,0,0.2,9,1,3300,0,0
+Tricentenario,Miraflores,A,T,noche,3,0,4.752,0,0,1,0.28,11,12,3300,1,1
+Universidad,Bello,A,A,mañana_valle,7,0,7.978,1,0,0,0.4,7,17,3300,0,0
+Universidad,Floresta,A,B,tarde_pico,7,0,4.5,0,0,0,0.72,3,17,3300,1,1
+Loyola,Villa Sierra,T,K,noche,1,0,6.87,0,0,0,0.16,10,10,3300,1,0
+Floresta,Juan XXIII,B,J,tarde_pico,6,0,2.039,0,0,0,0.74,4,12,3300,1,1
+Santa Lucía,La Sierra,B,M,mañana_valle,2,0,5.371,0,0,0,0.55,8,9,3300,1,1
+Acevedo,La Sierra,A,M,mañana_valle,4,0,8.304,0,1,0,0.52,4,18,3300,1,0
+Envigado,Poblado,A,A,mañana_pico,3,0,4.151,1,0,0,0.97,3,3,3300,0,1
+Suramericana,La Aurora,B,J,noche,5,0,6.388,0,0,0,0.32,11,8,3300,1,0
+Alejandro Echavarría,Aguacatala,T,A,tarde_valle,2,0,5.807,0,0,0,0.36,6,11,3300,1,0
+Buenos Aires,Andalucía,T,K,mañana_pico,2,0,6.691,0,0,0,0.91,3,5,3300,1,1
+La Estrella,La Aurora,A,J,mañana_pico,4,0,12.35,0,0,0,1.0,3,6,3300,1,1
+San Javier,Tricentenario,B,A,tarde_valle,5,0,5.93,0,1,0,0.49,4,6,3300,1,0
+San Javier,Parque Berrío,B,A,noche,1,0,4.775,0,1,0,0.3,9,14,3300,1,0
+La Estrella,Loyola,A,T,noche,7,0,13.181,0,0,0,0.34,8,5,3300,1,0
+Exposiciones,Universidad,A,A,mañana_pico,2,0,3.666,1,0,0,0.76,4,8,3300,0,1
+Santo Domingo,Poblado,K,A,mañana_pico,6,0,11.934,0,1,0,0.76,2,16,3300,1,1
+Prado,Vallejuelos,A,J,tarde_valle,4,0,7.034,0,0,0,0.43,6,6,3300,1,1
+Suramericana,Juan XXIII,B,J,tarde_pico,2,0,4.276,0,0,0,0.74,3,2,3300,1,1
+Alejandro Echavarría,Niquía,T,A,mañana_valle,4,0,12.067,0,0,0,0.36,5,7,3300,1,0
+Tricentenario,Exposiciones,A,A,tarde_pico,7,0,5.722,1,0,0,0.87,5,8,3300,0,1
+Bicentenario,Miraflores,T,T,madrugada,5,0,1.2,1,0,1,0.17,14,11,3300,0,0
+Miraflores,Trece de Noviembre,T,M,noche,5,0,1.013,0,1,0,0.27,10,2,3300,1,0
+Vallejuelos,Universidad,J,A,tarde_pico,4,0,6.884,0,0,0,0.91,2,8,3300,1,1
+Vallejuelos,Andalucía,J,K,tarde_pico,6,0,8.154,0,0,0,0.71,5,17,3300,1,1
+Trece de Noviembre,Acevedo,M,A,mañana_pico,3,0,7.238,0,0,1,0.86,4,10,3300,1,1
+Loyola,San Antonio,T,A,tarde_pico,3,0,3.466,0,0,1,0.85,2,17,3300,1,1
+Parque Berrío,Asomadera,A,T,noche,4,0,3.653,0,0,0,0.17,10,4,3300,1,1
+Alpujarra,Santo Domingo,A,K,noche,5,0,8.629,0,0,1,0.18,9,11,3300,1,0
+Buenos Aires,Bello,T,A,mañana_pico,4,0,11.112,0,0,0,0.9,3,15,3300,1,1
+Caribe,Envigado,A,A,mañana_valle,6,0,11.494,1,0,0,0.46,5,4,3300,0,0
+Caribe,Prado,A,A,noche,4,0,2.765,1,0,0,0.28,6,17,3300,0,0
+Suramericana,Vallejuelos,B,J,tarde_valle,2,0,5.378,0,0,0,0.34,7,2,3300,1,1
+San Antonio,Santa Lucía,A,B,tarde_valle,7,0,2.837,0,1,0,0.29,5,6,3300,1,1
+Acevedo,Bicentenario,A,T,mañana_valle,3,0,6.652,0,1,0,0.48,7,10,3300,1,0
+Trece de Noviembre,Alpujarra,M,A,madrugada,2,0,2.03,0,0,0,0.2,8,9,3300,1,0
+Niquía,Asomadera,A,T,tarde_pico,7,0,13.303,0,0,0,0.9,5,8,3300,1,1
+Industriales,Santo Domingo,A,K,noche,4,0,10.116,0,0,1,0.24,9,3,3300,1,0
+Santo Domingo,Arví,K,L,madrugada,2,0,5.533,0,1,0,0.19,12,18,3300,1,0
+Industriales,Acevedo,A,A,mañana_pico,2,0,7.896,1,0,1,0.76,4,2,3300,0,1
+Parque Berrío,Madera,A,A,noche,5,0,8.209,1,0,0,0.32,8,11,3300,0,0
+Caribe,Acevedo,A,A,madrugada,4,0,2.682,1,0,1,0.2,10,10,3300,0,0
+Arví,Santo Domingo,L,K,tarde_valle,7,0,5.533,0,0,1,0.49,9,12,3300,1,0
+Madera,Universidad,A,A,mañana_valle,3,0,6.099,1,0,0,0.39,7,3,3300,0,0
+Bicentenario,Villa Sierra,T,K,madrugada,3,0,6.635,0,0,0,0.15,9,9,3300,1,0
+Floresta,La Aurora,B,J,tarde_pico,5,0,4.194,0,0,0,0.75,3,2,3300,1,1
+Universidad,La Independencia,A,K,noche,6,0,4.928,0,0,0,0.26,6,16,3300,1,0
+Santo Domingo,Itagüí,K,A,tarde_pico,5,0,17.745,0,1,0,0.91,4,17,3300,1,1
+Villa Sierra,Trece de Noviembre,K,M,mañana_valle,2,0,7.5,0,0,0,0.45,7,17,3300,1,1
+Trece de Noviembre,Oriente,M,T,tarde_pico,7,1,3.32,0,0,0,0.85,4,7,3300,1,1
+Niquía,Prado,A,A,madrugada,4,0,10.958,1,0,0,0.16,9,7,3300,0,0
+Arví,Alejandro Echavarría,L,T,tarde_pico,1,0,8.148,0,0,0,0.78,3,1,3300,1,1
+Trece de Noviembre,Exposiciones,M,A,noche,3,0,2.428,0,0,0,0.2,6,10,3300,1,0
+La Estrella,Vallejuelos,A,J,tarde_valle,3,0,11.696,0,0,0,0.44,4,11,3300,1,1
+Floresta,Alejandro Echavarría,B,T,noche,5,0,5.275,0,0,0,0.27,6,6,3300,1,1
+Exposiciones,Santa Lucía,A,B,mañana_valle,6,0,2.288,0,0,0,0.42,7,2,3300,1,0
+La Sierra,Prado,M,A,tarde_pico,2,0,2.974,0,0,0,0.86,4,15,3300,1,1
+Alejandro Echavarría,Acevedo,T,A,tarde_valle,3,0,6.422,0,0,1,0.39,9,11,3300,1,1
+Andalucía,La Aurora,K,J,madrugada,2,0,8.632,0,0,0,0.16,13,12,3300,1,0
+Tricentenario,San Antonio,A,A,mañana_valle,7,1,4.856,1,0,1,0.55,8,6,3300,0,0
+Villa Sierra,Arví,K,L,tarde_pico,2,0,7.127,0,0,0,0.85,4,11,3300,1,1
+Madera,Itagüí,A,A,tarde_pico,1,0,16.988,1,0,0,0.82,3,12,3300,0,1
+Buenos Aires,La Estrella,T,A,mañana_pico,5,0,12.763,0,0,0,0.83,2,12,3300,1,1
+Madera,Industriales,A,A,madrugada,4,0,9.804,1,0,0,0.15,15,17,3300,0,0
+Parque Berrío,Industriales,A,A,mañana_valle,4,0,2.481,1,0,0,0.48,8,10,3300,0,0
+San Javier,Parque Berrío,B,A,madrugada,7,0,4.775,0,1,0,0.15,10,7,3300,1,0
+Madera,Asomadera,A,T,tarde_pico,6,0,9.887,0,0,0,0.92,2,1,3300,1,1
+La Estrella,Madera,A,A,noche,7,0,18.071,1,0,0,0.17,9,2,3300,0,0
+Universidad,La Aurora,A,J,noche,6,0,7.735,0,0,0,0.21,10,10,3300,1,0
+Trece de Noviembre,Industriales,M,A,mañana_valle,2,0,2.872,0,0,0,0.35,6,18,3300,1,0
+San Javier,Loyola,B,T,noche,1,0,7.819,0,1,0,0.2,7,9,3300,1,0
+Hospital,Niquía,A,A,tarde_valle,5,0,10.262,1,0,0,0.38,5,18,3300,0,0
+Santa Lucía,Villa Sierra,B,K,mañana_valle,3,0,7.672,0,0,0,0.34,6,8,3300,1,1
+San Antonio,Tricentenario,A,A,mañana_valle,5,0,4.856,1,1,0,0.52,8,15,3300,0,1
+Acevedo,Parque Berrío,A,A,madrugada,4,0,6.05,1,1,0,0.19,8,4,3300,0,0
+Suramericana,Acevedo,B,A,madrugada,4,0,6.118,0,0,1,0.14,15,12,3300,1,0
+La Estrella,Santa Lucía,A,B,mañana_pico,6,0,10.357,0,0,0,0.94,2,15,3300,1,1
+Villa Sierra,Prado,K,A,madrugada,7,0,5.958,0,0,0,0.17,9,15,3300,1,0
+La Estrella,Asomadera,A,T,tarde_pico,2,0,13.612,0,0,0,0.94,3,9,3300,1,1
+Trinidad,Alejandro Echavarría,B,T,mañana_pico,6,0,3.782,0,0,0,0.98,4,11,3300,1,1
+Loyola,Juan XXIII,T,J,madrugada,1,0,8.937,0,0,0,0.15,13,16,3300,1,0
+Loyola,San Antonio,T,A,mañana_valle,7,0,3.466,0,0,1,0.44,8,4,3300,1,0
+Miraflores,Universidad,T,A,mañana_valle,5,0,2.397,0,1,0,0.46,6,18,3300,1,0
+Loyola,Miraflores,T,T,tarde_valle,4,0,2.389,1,0,1,0.31,5,18,3300,0,0
+San Antonio,Oriente,A,T,tarde_pico,1,0,4.713,0,1,0,0.79,5,14,3300,1,1
+Villa Sierra,Floresta,K,B,tarde_valle,6,0,7.991,0,0,0,0.31,9,3,3300,1,0
+Villa Sierra,Oriente,K,T,madrugada,5,0,7.294,0,0,0,0.16,13,18,3300,1,0
+Universidad,Loyola,A,T,mañana_pico,3,0,3.744,0,0,0,0.99,2,4,3300,1,1
+Santo Domingo,Suramericana,K,B,mañana_valle,4,0,8.618,0,1,0,0.46,4,3,3300,1,1
+Industriales,Prado,A,A,tarde_valle,7,0,3.113,1,0,0,0.25,5,5,3300,0,0
+Buenos Aires,Andalucía,T,K,mañana_valle,4,0,6.691,0,0,0,0.45,7,7,3300,1,0
+Industriales,Floresta,A,B,mañana_valle,5,0,3.238,0,0,0,0.5,6,14,3300,1,0
+Santa Lucía,Caribe,B,A,tarde_valle,1,0,4.305,0,0,0,0.4,8,13,3300,1,1
+Prado,La Estrella,A,A,madrugada,3,0,12.07,1,0,0,0.19,8,1,3300,0,0
+Andalucía,Santa Lucía,K,B,madrugada,7,1,6.884,0,0,0,0.1,14,13,3300,1,0
+Trece de Noviembre,San Javier,M,B,noche,4,0,6.038,0,0,1,0.23,9,18,3300,1,1
+Industriales,Alpujarra,A,A,tarde_pico,2,0,1.488,1,0,0,0.75,5,12,3300,0,1
+Alejandro Echavarría,Parque Berrío,T,A,mañana_valle,7,0,1.319,0,0,0,0.33,4,1,3300,1,0
+Parque Berrío,Juan XXIII,A,J,noche,4,0,5.921,0,0,0,0.34,7,3,3300,1,0
+Prado,Bicentenario,A,T,tarde_pico,7,0,1.816,0,0,0,0.93,3,15,3300,1,1
+Juan XXIII,Bicentenario,J,T,tarde_valle,7,0,7.762,0,0,0,0.34,5,14,3300,1,0
+Santo Domingo,Niquía,K,A,tarde_valle,4,0,8.114,0,1,0,0.46,5,17,3300,1,1
+Envigado,Bicentenario,A,T,tarde_valle,5,0,9.149,0,0,0,0.34,4,16,3300,1,0
+Trinidad,Hospital,B,A,tarde_valle,4,0,2.976,0,0,0,0.49,4,5,3300,1,0
+Vallejuelos,Envigado,J,A,tarde_pico,5,0,10.311,0,0,0,0.72,2,8,3300,1,1
+Asomadera,La Sierra,T,M,noche,6,0,2.653,0,0,0,0.34,6,18,3300,1,0
+La Independencia,La Estrella,K,A,tarde_valle,1,0,18.402,0,0,0,0.48,8,1,3300,1,1
+Asomadera,Loyola,T,T,tarde_valle,4,0,0.603,1,0,0,0.39,6,14,3300,0,0
+Santa Lucía,Itagüí,B,A,mañana_valle,2,0,9.238,0,0,0,0.31,8,10,3300,1,1
+Villa Sierra,Ayurá,K,A,madrugada,6,0,13.268,0,0,0,0.15,10,2,3300,1,0
+Itagüí,Trece de Noviembre,A,M,madrugada,3,0,9.787,0,0,0,0.15,10,17,3300,1,0
+Tricentenario,Itagüí,A,A,mañana_valle,2,0,14.115,1,0,0,0.45,6,9,3300,0,0
+Niquía,Prado,A,A,tarde_valle,2,0,10.958,1,0,0,0.48,9,5,3300,0,0
+Buenos Aires,Trinidad,T,B,mañana_pico,3,0,4.88,0,0,0,0.95,3,16,3300,1,1
+Alpujarra,La Aurora,A,J,madrugada,3,0,7.355,0,0,0,0.2,10,5,3300,1,0
+Oriente,Alejandro Echavarría,T,T,tarde_pico,2,0,2.979,1,0,0,0.87,3,7,3300,0,1
+Villa Sierra,Santa Lucía,K,B,madrugada,6,0,7.672,0,0,0,0.13,9,2,3300,1,0
+San Antonio,Asomadera,A,T,tarde_pico,4,0,4.069,0,1,0,0.78,3,13,3300,1,1
+Suramericana,Oriente,B,T,mañana_valle,2,0,6.018,0,0,0,0.43,7,1,3300,1,0
+Itagüí,Loyola,A,T,tarde_pico,6,0,11.696,0,0,0,0.78,2,4,3300,1,1
+La Aurora,La Sierra,J,M,mañana_valle,7,0,10.286,0,0,0,0.53,6,11,3300,1,0
+Envigado,Itagüí,A,A,madrugada,3,0,1.914,1,0,0,0.17,14,15,3300,0,0
+Aguacatala,Santo Domingo,A,K,mañana_pico,5,0,13.057,0,0,1,0.83,3,11,3300,1,1
+Andalucía,Niquía,K,A,noche,1,0,6.235,0,0,0,0.32,6,14,3300,1,0
+Universidad,La Aurora,A,J,madrugada,6,0,7.735,0,0,0,0.14,11,10,3300,1,0
+Ayurá,Exposiciones,A,A,madrugada,1,0,5.407,1,0,0,0.16,8,7,3300,0,0
+Santo Domingo,La Sierra,K,M,madrugada,6,0,9.069,0,1,0,0.2,9,5,3300,1,0
+Suramericana,La Independencia,B,K,mañana_pico,1,0,7.87,0,0,0,0.92,4,10,3300,1,1
+Loyola,Tricentenario,T,A,noche,4,0,5.797,0,0,0,0.33,8,14,3300,1,0
+San Javier,Ayurá,B,A,mañana_pico,7,1,7.765,0,1,0,0.94,5,13,3300,1,1
+Floresta,Acevedo,B,A,mañana_valle,7,1,6.377,0,0,1,0.41,7,7,3300,1,0
+Arví,Miraflores,L,T,mañana_pico,6,0,8.706,0,0,1,0.87,3,18,3300,1,1
+Bicentenario,Industriales,T,A,tarde_valle,6,0,3.922,0,0,0,0.28,7,9,3300,1,0
+Universidad,Madera,A,A,madrugada,1,0,6.099,1,0,0,0.16,12,15,3300,0,0
+Bello,Juan XXIII,A,J,mañana_pico,6,0,8.749,0,0,0,0.91,2,13,3300,1,1
+Envigado,Parque Berrío,A,A,noche,3,0,8.359,1,0,0,0.33,10,1,3300,0,0
+Juan XXIII,Oriente,J,T,tarde_pico,4,0,10.171,0,0,0,0.8,2,18,3300,1,1
+Poblado,Niquía,A,A,tarde_pico,6,0,15.012,1,0,0,0.9,5,4,3300,0,1
+Villa Sierra,La Aurora,K,J,mañana_valle,3,0,9.666,0,0,0,0.47,7,2,3300,1,0
+Trece de Noviembre,Caribe,M,A,mañana_valle,5,0,4.56,0,0,0,0.51,6,3,3300,1,0
+Loyola,Itagüí,T,A,noche,2,0,11.696,0,0,0,0.19,6,13,3300,1,0
+Exposiciones,San Javier,A,B,noche,4,0,3.781,0,0,1,0.33,11,12,3300,1,0
+Oriente,Caribe,T,A,noche,4,0,5.717,0,0,0,0.3,7,2,3300,1,0
+Exposiciones,Bello,A,A,noche,5,0,10.797,1,0,0,0.2,9,3,3300,0,0
+La Aurora,La Estrella,J,A,tarde_pico,5,0,12.35,0,0,0,0.94,5,1,3300,1,1
+Madera,Santa Lucía,A,B,madrugada,3,0,7.752,0,0,0,0.18,8,13,3300,1,0
+Hospital,Poblado,A,A,noche,6,0,5.637,1,0,0,0.25,11,18,3300,0,0
+Parque Berrío,Santo Domingo,A,K,mañana_pico,1,0,7.719,0,0,1,0.76,3,16,3300,1,1
+La Sierra,Bello,M,A,tarde_pico,5,0,12.439,0,0,0,0.71,3,1,3300,1,1
+Alpujarra,La Sierra,A,M,madrugada,3,0,2.932,0,0,0,0.18,9,15,3300,1,0
+Arví,San Antonio,L,A,tarde_valle,1,0,9.741,0,0,1,0.45,4,4,3300,1,1
+Oriente,Arví,T,L,tarde_valle,2,0,5.955,0,0,0,0.27,5,14,3300,1,1
+Floresta,Alejandro Echavarría,B,T,mañana_valle,1,0,5.275,0,0,0,0.54,8,18,3300,1,0
+Prado,Floresta,A,B,mañana_pico,7,1,4.142,0,0,0,0.79,2,4,3300,1,1
+Envigado,Parque Berrío,A,A,tarde_pico,2,0,8.359,1,0,0,0.87,3,15,3300,0,1
+Aguacatala,Santo Domingo,A,K,madrugada,2,0,13.057,0,0,1,0.11,14,6,3300,1,0
+Bello,Juan XXIII,A,J,madrugada,1,0,8.749,0,0,0,0.1,9,10,3300,1,0
+Alejandro Echavarría,Oriente,T,T,noche,2,0,2.979,1,0,0,0.19,11,9,3300,0,0
+Vallejuelos,Buenos Aires,J,T,tarde_pico,2,0,9.354,0,0,0,0.93,2,6,3300,1,1
+Oriente,Trece de Noviembre,T,M,madrugada,6,0,3.32,0,0,0,0.18,12,12,3300,1,0
+Alejandro Echavarría,Niquía,T,A,tarde_valle,2,0,12.067,0,0,0,0.3,8,4,3300,1,1
+Arví,Trinidad,L,B,tarde_valle,5,0,11.42,0,0,0,0.3,9,7,3300,1,1
+Envigado,Acevedo,A,A,mañana_pico,1,0,13.926,1,0,1,0.95,5,16,3300,0,1
+Alpujarra,San Antonio,A,A,noche,1,0,0.561,1,0,1,0.16,8,10,3300,0,0
+Industriales,Buenos Aires,A,T,mañana_valle,3,0,4.42,0,0,0,0.45,7,2,3300,1,1
+Universidad,Acevedo,A,A,tarde_valle,2,0,3.848,1,0,1,0.29,4,16,3300,0,0
+Juan XXIII,Hospital,J,A,madrugada,2,0,5.983,0,0,0,0.17,13,14,3300,1,0
+Exposiciones,Floresta,A,B,mañana_pico,7,1,3.0,0,0,0,0.81,3,14,3300,1,0
+Exposiciones,Miraflores,A,T,mañana_pico,1,0,2.23,0,0,1,0.87,5,2,3300,1,1
+Bicentenario,Parque Berrío,T,A,mañana_pico,5,0,1.862,0,0,0,0.86,5,12,3300,1,1
+Prado,Asomadera,A,T,noche,2,0,3.53,0,0,0,0.28,8,7,3300,1,1
+Floresta,Prado,B,A,madrugada,6,0,4.142,0,0,0,0.16,12,5,3300,1,0
+Hospital,Asomadera,A,T,tarde_pico,4,0,3.761,0,0,0,0.74,4,8,3300,1,1
+Itagüí,Arví,A,L,mañana_pico,7,0,18.492,0,0,0,0.99,3,18,3300,1,1
+Poblado,Caribe,A,A,tarde_pico,7,0,7.475,1,0,0,0.92,3,16,3300,0,1
+Loyola,Envigado,T,A,madrugada,6,0,9.836,0,0,0,0.14,11,8,3300,1,0
+San Javier,Buenos Aires,B,T,tarde_valle,2,0,7.188,0,1,0,0.47,8,5,3300,1,1
+Villa Sierra,Niquía,K,A,tarde_pico,1,0,6.778,0,0,0,0.71,5,17,3300,1,1
+Madera,Buenos Aires,A,T,tarde_valle,4,0,9.225,0,0,0,0.37,9,4,3300,1,1
+Buenos Aires,Juan XXIII,T,J,mañana_pico,1,0,8.311,0,0,0,0.89,2,14,3300,1,1
+Industriales,Prado,A,A,mañana_valle,3,0,3.113,1,0,0,0.36,4,1,3300,0,0
+Asomadera,La Estrella,T,A,mañana_pico,6,0,13.612,0,0,0,0.86,2,15,3300,1,1
+Loyola,Prado,T,A,noche,4,0,2.947,0,0,0,0.19,12,12,3300,1,0
+Trece de Noviembre,Loyola,M,T,noche,6,0,2.14,0,0,0,0.15,11,3,3300,1,0
+Suramericana,Floresta,B,B,tarde_valle,1,0,2.265,1,0,0,0.32,6,18,3300,0,0
+Villa Sierra,Industriales,K,A,noche,1,0,8.857,0,0,0,0.27,8,2,3300,1,0
+Juan XXIII,Trinidad,J,B,madrugada,1,0,3.53,0,0,0,0.14,15,2,3300,1,0
+Trinidad,Suramericana,B,B,mañana_pico,6,0,0.754,1,0,0,0.89,2,18,3300,0,1
+Industriales,Prado,A,A,mañana_valle,2,0,3.113,1,0,0,0.43,7,7,3300,0,0
+Poblado,Floresta,A,B,mañana_valle,3,0,5.151,0,0,0,0.43,7,9,3300,1,0
+Acevedo,Caribe,A,A,mañana_valle,3,0,2.682,1,1,0,0.41,8,17,3300,0,0
+Hospital,Oriente,A,T,noche,5,0,4.363,0,0,0,0.29,10,10,3300,1,0
+Buenos Aires,Trece de Noviembre,T,M,mañana_valle,7,0,1.588,0,0,0,0.47,4,7,3300,1,0
+Loyola,Caribe,T,A,madrugada,4,0,4.792,0,0,0,0.19,12,3,3300,1,0
+Universidad,Alpujarra,A,A,mañana_valle,1,0,3.041,1,0,0,0.47,7,5,3300,0,0
+Industriales,La Aurora,A,J,noche,1,0,7.37,0,0,0,0.21,11,18,3300,1,0
+Prado,Oriente,A,T,mañana_valle,4,0,4.164,0,0,0,0.41,4,10,3300,1,0
+Exposiciones,Tricentenario,A,A,madrugada,7,0,5.722,1,0,0,0.18,13,14,3300,0,0
+La Independencia,Floresta,K,B,noche,6,0,8.821,0,0,0,0.31,9,17,3300,1,0
+Andalucía,Buenos Aires,K,T,tarde_pico,3,0,6.691,0,0,0,0.84,4,6,3300,1,1
+Ayurá,Poblado,A,A,tarde_pico,3,0,2.462,1,0,0,0.94,2,5,3300,0,1
+Santa Lucía,Itagüí,B,A,tarde_pico,2,0,9.238,0,0,0,0.85,3,18,3300,1,1
+Itagüí,Alpujarra,A,A,mañana_pico,7,0,9.124,1,0,0,0.98,3,6,3300,0,1
+Aguacatala,Hospital,A,A,madrugada,3,0,6.795,1,0,0,0.16,15,9,3300,0,0
+Trinidad,Alpujarra,B,A,mañana_pico,5,0,1.701,0,0,0,0.93,4,12,3300,1,1
+Parque Berrío,Suramericana,A,B,tarde_pico,5,0,1.723,0,0,0,0.94,4,4,3300,1,1
+Bello,Alejandro Echavarría,A,T,tarde_pico,7,1,10.58,0,0,0,0.81,4,5,3300,1,1
+Niquía,Andalucía,A,K,tarde_valle,3,0,6.235,0,0,0,0.41,6,16,3300,1,0
+Itagüí,La Independencia,A,K,noche,2,0,17.086,0,0,0,0.31,11,15,3300,1,0
+Floresta,Hospital,B,A,noche,4,0,4.255,0,0,0,0.33,7,18,3300,1,1
+Hospital,San Javier,A,B,madrugada,4,0,5.018,0,0,1,0.16,11,15,3300,1,0
+Santa Lucía,Caribe,B,A,mañana_valle,1,0,4.305,0,0,0,0.45,5,17,3300,1,0
+Poblado,Itagüí,A,A,mañana_pico,1,0,5.912,1,0,0,0.77,5,3,3300,0,1
+Juan XXIII,Miraflores,J,T,mañana_pico,4,0,6.58,0,0,1,0.83,2,12,3300,1,1
+Miraflores,Parque Berrío,T,A,noche,7,0,0.663,0,1,0,0.23,6,10,3300,1,0
+Santa Lucía,Trinidad,B,B,mañana_valle,4,0,0.756,1,0,0,0.52,4,7,3300,0,0
+Buenos Aires,Alejandro Echavarría,T,T,tarde_pico,3,0,1.098,1,0,0,0.74,5,14,3300,0,1
+Prado,Santo Domingo,A,K,tarde_valle,1,0,7.046,0,0,1,0.29,6,16,3300,1,0
+Vallejuelos,Floresta,J,B,madrugada,5,0,3.168,0,0,0,0.18,9,1,3300,1,0
+Alejandro Echavarría,La Sierra,T,M,mañana_valle,4,0,1.894,0,0,0,0.34,7,5,3300,1,0
+Exposiciones,Alpujarra,A,A,tarde_pico,3,0,0.662,1,0,0,0.84,2,10,3300,0,1
+La Independencia,La Estrella,K,A,tarde_pico,5,0,18.402,0,0,0,0.88,3,1,3300,1,1
+Niquía,San Antonio,A,A,mañana_valle,3,0,11.616,1,0,1,0.54,7,4,3300,0,0
+La Sierra,Itagüí,M,A,tarde_pico,2,0,9.469,0,0,0,0.82,3,1,3300,1,1
+Hospital,Itagüí,A,A,tarde_pico,1,0,11.386,1,0,0,0.85,4,16,3300,0,1
+Villa Sierra,Bicentenario,K,T,mañana_valle,6,0,6.635,0,0,0,0.47,4,12,3300,1,0
+Juan XXIII,La Independencia,J,K,madrugada,7,1,9.667,0,0,0,0.16,10,11,3300,1,0
+Loyola,Prado,T,A,mañana_valle,2,0,2.947,0,0,0,0.31,6,14,3300,1,0
+Trece de Noviembre,Santa Lucía,M,B,madrugada,3,0,4.467,0,0,0,0.13,9,17,3300,1,0
+Exposiciones,La Sierra,A,M,mañana_pico,7,1,3.163,0,0,0,0.94,4,11,3300,1,0
+La Estrella,Envigado,A,A,noche,6,0,3.437,1,0,0,0.29,6,18,3300,0,0
+La Independencia,Santa Lucía,K,B,mañana_pico,1,0,8.455,0,0,0,0.78,4,12,3300,1,1
+Oriente,Alejandro Echavarría,T,T,mañana_valle,2,0,2.979,1,0,0,0.33,5,17,3300,0,0
+Poblado,Exposiciones,A,A,tarde_valle,5,0,2.947,1,0,0,0.42,8,18,3300,0,0
+Andalucía,Hospital,K,A,tarde_pico,4,0,4.813,0,0,0,0.93,2,5,3300,1,1
+Bello,Oriente,A,T,mañana_valle,3,0,12.145,0,0,0,0.47,5,15,3300,1,0
+Santo Domingo,Vallejuelos,K,J,mañana_valle,2,0,11.109,0,1,0,0.48,4,4,3300,1,0
+Poblado,Prado,A,A,noche,2,0,4.908,1,0,0,0.29,8,5,3300,0,0
+Industriales,Prado,A,A,madrugada,4,0,3.113,1,0,0,0.17,9,3,3300,0,0
+Bello,Oriente,A,T,tarde_pico,1,0,12.145,0,0,0,0.75,2,17,3300,1,1
+La Independencia,Acevedo,K,A,tarde_pico,1,0,3.12,0,0,1,0.93,2,3,3300,1,1
+La Estrella,Niquía,A,A,madrugada,7,1,20.557,1,0,0,0.16,11,6,3300,0,0
+Santa Lucía,Bello,B,A,madrugada,2,0,9.343,0,0,0,0.18,12,12,3300,1,0
+Santa Lucía,San Antonio,B,A,tarde_valle,7,0,2.837,0,0,1,0.31,8,3,3300,1,0
+Universidad,Santo Domingo,A,K,madrugada,5,0,5.629,0,0,1,0.12,11,10,3300,1,0
+San Antonio,Andalucía,A,K,madrugada,6,0,6.54,0,1,0,0.11,11,17,3300,1,0
+Asomadera,Trinidad,T,B,noche,5,0,6.116,0,0,0,0.19,11,4,3300,1,0
+Alpujarra,Trinidad,A,B,tarde_pico,4,0,1.701,0,0,0,0.75,3,14,3300,1,1
+Hospital,Floresta,A,B,madrugada,4,0,4.255,0,0,0,0.11,10,16,3300,1,0
+Trinidad,Itagüí,B,A,tarde_valle,6,0,9.225,0,0,0,0.26,6,16,3300,1,0
+Hospital,Miraflores,A,T,mañana_valle,4,0,1.546,0,0,1,0.45,6,15,3300,1,1
+Poblado,Villa Sierra,A,K,tarde_pico,3,0,10.838,0,0,0,0.95,5,7,3300,1,1
+Tricentenario,Oriente,A,T,noche,3,0,6.606,0,0,0,0.19,11,16,3300,1,0
+Universidad,Alejandro Echavarría,A,T,tarde_pico,5,0,2.604,0,0,0,0.86,2,4,3300,1,1
+Parque Berrío,Alejandro Echavarría,A,T,tarde_pico,6,0,1.319,0,0,0,0.85,2,6,3300,1,1
+Tricentenario,Suramericana,A,B,mañana_pico,3,0,4.823,0,0,0,0.8,5,4,3300,1,1
+Poblado,Buenos Aires,A,T,noche,4,0,5.413,0,0,0,0.21,11,9,3300,1,1
+La Sierra,Miraflores,M,T,mañana_valle,4,0,2.124,0,0,1,0.47,7,16,3300,1,0
+Juan XXIII,Envigado,J,A,mañana_pico,7,0,9.402,0,0,0,0.78,5,16,3300,1,1
+Poblado,La Sierra,A,M,mañana_pico,1,0,3.698,0,0,0,0.77,2,3,3300,1,1
+Oriente,Bello,T,A,mañana_pico,4,0,12.145,0,0,0,0.9,4,5,3300,1,1
+La Estrella,Trece de Noviembre,A,M,tarde_valle,1,0,11.239,0,0,0,0.44,9,17,3300,1,0
+Oriente,Loyola,T,T,mañana_pico,3,0,1.248,1,0,0,0.92,5,17,3300,0,1
+Ayurá,Andalucía,A,K,mañana_valle,7,0,12.811,0,0,0,0.44,4,14,3300,1,0
+Hospital,Miraflores,A,T,tarde_pico,3,0,1.546,0,0,1,0.91,5,15,3300,1,1
+Madera,Acevedo,A,A,mañana_pico,5,0,2.328,1,0,1,0.91,4,6,3300,0,1
+Oriente,Bicentenario,T,T,mañana_pico,3,0,2.437,1,0,0,0.93,5,4,3300,0,1
+Villa Sierra,Oriente,K,T,noche,5,0,7.294,0,0,0,0.29,10,16,3300,1,0
+Asomadera,Villa Sierra,T,K,mañana_pico,5,0,7.038,0,0,0,0.76,4,16,3300,1,1
+La Independencia,Suramericana,K,B,tarde_valle,6,0,7.87,0,0,0,0.34,6,11,3300,1,0
+Acevedo,Bello,A,A,tarde_valle,1,0,4.21,1,1,0,0.28,6,12,3300,0,0
+La Independencia,Bello,K,A,noche,3,0,5.92,0,0,0,0.23,9,12,3300,1,0
+Santa Lucía,Bicentenario,B,T,mañana_valle,1,0,5.07,0,0,0,0.47,5,8,3300,1,0
+La Sierra,La Estrella,M,A,tarde_valle,1,0,10.961,0,0,0,0.48,4,10,3300,1,1
+Hospital,Santa Lucía,A,B,mañana_pico,1,0,3.593,0,0,0,0.88,2,15,3300,1,1
+Bicentenario,La Independencia,T,K,tarde_valle,4,0,6.868,0,0,0,0.32,9,16,3300,1,0
+La Independencia,Bello,K,A,mañana_valle,4,0,5.92,0,0,0,0.44,6,4,3300,1,1
+Oriente,Universidad,T,A,noche,6,0,4.769,0,0,0,0.19,9,17,3300,1,0
+Floresta,San Antonio,B,A,tarde_valle,3,0,3.592,0,0,1,0.34,7,7,3300,1,0
+Oriente,La Sierra,T,M,madrugada,7,0,3.148,0,0,0,0.12,12,2,3300,1,0
+La Estrella,La Independencia,A,K,tarde_pico,7,1,18.402,0,0,0,0.89,2,4,3300,1,1
+La Independencia,Floresta,K,B,mañana_valle,1,0,8.821,0,0,0,0.44,8,16,3300,1,0
+Bicentenario,Industriales,T,A,mañana_valle,7,1,3.922,0,0,0,0.51,8,10,3300,1,0
+Bicentenario,Andalucía,T,K,mañana_valle,2,0,6.52,0,0,0,0.4,6,17,3300,1,1
+Loyola,Villa Sierra,T,K,mañana_pico,1,0,6.87,0,0,0,0.91,3,16,3300,1,1
+Industriales,Asomadera,A,T,mañana_valle,6,0,5.579,0,0,0,0.43,8,14,3300,1,0
+Villa Sierra,La Sierra,K,M,madrugada,5,0,8.439,0,0,0,0.12,15,5,3300,1,0
+Aguacatala,Parque Berrío,A,A,noche,6,0,5.379,1,0,0,0.3,12,14,3300,0,0
+Alejandro Echavarría,San Javier,T,B,madrugada,6,0,6.091,0,0,1,0.12,14,9,3300,1,0
+Itagüí,San Antonio,A,A,mañana_valle,6,0,9.592,1,0,1,0.45,7,8,3300,0,0
+Hospital,San Antonio,A,A,mañana_pico,1,0,1.804,1,0,1,0.81,4,15,3300,0,1
+Oriente,Villa Sierra,T,K,tarde_pico,4,0,7.294,0,0,0,0.86,2,7,3300,1,1
+San Antonio,Itagüí,A,A,mañana_pico,1,0,9.592,1,1,0,0.81,4,18,3300,0,1
+Alpujarra,Madera,A,A,noche,4,0,8.593,1,0,0,0.31,6,3,3300,0,0
+San Javier,Arví,B,L,mañana_valle,7,1,13.404,0,1,0,0.54,6,3,3300,1,0
+Miraflores,Prado,T,A,mañana_pico,1,0,0.851,0,1,0,0.89,2,17,3300,1,1
+La Independencia,Vallejuelos,K,J,mañana_valle,4,0,10.125,0,0,0,0.52,5,4,3300,1,1
+San Javier,Santa Lucía,B,B,tarde_valle,6,0,1.574,1,1,0,0.35,9,8,3300,0,0
+Bicentenario,Industriales,T,A,mañana_pico,1,0,3.922,0,0,0,0.79,4,15,3300,1,1
+Alejandro Echavarría,Ayurá,T,A,tarde_valle,1,0,6.994,0,0,0,0.37,6,4,3300,1,1
+San Javier,Andalucía,B,K,tarde_pico,4,0,7.533,0,1,0,0.87,4,5,3300,1,1
+Trinidad,Oriente,B,T,noche,3,0,6.76,0,0,0,0.31,6,2,3300,1,0
+Acevedo,Ayurá,A,A,mañana_valle,5,0,12.484,1,1,0,0.4,6,4,3300,0,0
+La Aurora,Aguacatala,J,A,tarde_pico,4,0,9.886,0,0,0,0.7,5,9,3300,1,1
+La Estrella,Caribe,A,A,mañana_pico,3,0,14.303,1,0,0,0.8,3,15,3300,0,1
+Trece de Noviembre,San Javier,M,B,noche,4,0,6.038,0,0,1,0.31,8,3,3300,1,1
+Oriente,Asomadera,T,T,noche,4,0,0.645,1,0,0,0.34,8,14,3300,0,0
+Universidad,Alpujarra,A,A,noche,3,0,3.041,1,0,0,0.25,8,14,3300,0,0
+Santo Domingo,Andalucía,K,K,noche,3,0,3.04,1,1,0,0.24,6,2,3300,0,0
+La Sierra,Alpujarra,M,A,noche,4,0,2.932,0,0,0,0.31,7,1,3300,1,0
+Miraflores,Exposiciones,T,A,noche,3,0,2.23,0,1,0,0.21,6,4,3300,1,0
+San Antonio,Ayurá,A,A,tarde_valle,6,0,6.278,1,1,0,0.49,9,5,3300,0,0
+Santo Domingo,Alejandro Echavarría,K,T,mañana_valle,4,0,7.337,0,1,0,0.42,5,9,3300,1,1
+Alpujarra,Santo Domingo,A,K,mañana_valle,7,1,8.629,0,0,1,0.32,6,6,3300,1,0
+Miraflores,Suramericana,T,B,tarde_valle,2,0,2.382,0,1,0,0.26,4,18,3300,1,0
+La Sierra,Arví,M,L,noche,2,0,9.026,0,0,0,0.33,9,7,3300,1,0
+Ayurá,San Antonio,A,A,madrugada,4,0,6.278,1,0,1,0.16,12,5,3300,0,0
+Caribe,Suramericana,A,B,mañana_pico,5,0,3.745,0,0,0,0.78,5,15,3300,1,1
+Oriente,Hospital,T,A,mañana_pico,6,0,4.363,0,0,0,0.8,4,10,3300,1,1
+Oriente,Suramericana,T,B,mañana_pico,4,0,6.018,0,0,0,0.96,3,10,3300,1,1
+Exposiciones,Bicentenario,A,T,mañana_pico,4,0,3.339,0,0,0,0.95,2,10,3300,1,1
+Ayurá,Aguacatala,A,A,tarde_valle,4,0,1.281,1,0,0,0.48,6,15,3300,0,1
+Caribe,Niquía,A,A,tarde_pico,2,0,8.299,1,0,0,0.92,5,7,3300,0,1
+Suramericana,Buenos Aires,B,T,noche,5,0,4.137,0,0,0,0.2,6,18,3300,1,0
+Acevedo,Tricentenario,A,A,mañana_valle,2,0,1.496,1,1,0,0.42,6,2,3300,0,0
+Niquía,Envigado,A,A,tarde_valle,5,0,18.5,1,0,0,0.35,7,12,3300,0,1
+Prado,Villa Sierra,A,K,madrugada,5,0,5.958,0,0,0,0.12,10,17,3300,1,0
+Oriente,Floresta,T,B,tarde_pico,2,0,8.248,0,0,0,0.72,5,5,3300,1,1
+Ayurá,Hospital,A,A,mañana_valle,1,0,8.059,1,0,0,0.54,7,9,3300,0,0
+Trinidad,Buenos Aires,B,T,mañana_valle,3,0,4.88,0,0,0,0.45,6,17,3300,1,1
+San Javier,Buenos Aires,B,T,mañana_pico,3,0,7.188,0,1,0,0.93,5,5,3300,1,1
+Andalucía,La Sierra,K,M,tarde_pico,1,0,8.267,0,0,0,0.75,2,8,3300,1,1
+Alpujarra,Madera,A,A,tarde_pico,3,0,8.593,1,0,0,0.74,5,14,3300,0,1
+Hospital,Juan XXIII,A,J,madrugada,4,0,5.983,0,0,0,0.14,15,15,3300,1,0
+Oriente,Hospital,T,A,noche,7,1,4.363,0,0,0,0.22,7,10,3300,1,0
+Alpujarra,San Antonio,A,A,noche,5,0,0.561,1,0,1,0.31,10,7,3300,0,0
+La Independencia,Niquía,K,A,tarde_valle,7,0,7.409,0,0,0,0.35,4,8,3300,1,0
+Oriente,Universidad,T,A,mañana_valle,1,0,4.769,0,0,0,0.37,4,13,3300,1,0
+Trinidad,Santo Domingo,B,K,madrugada,7,0,8.944,0,0,1,0.1,15,16,3300,1,0
+Loyola,La Sierra,T,M,mañana_valle,5,0,2.238,0,0,0,0.46,6,2,3300,1,0
+La Sierra,Arví,M,L,tarde_pico,3,0,9.026,0,0,0,0.94,3,7,3300,1,1
+Acevedo,La Estrella,A,A,mañana_valle,7,1,16.537,1,1,0,0.32,8,13,3300,0,0
+Caribe,Alejandro Echavarría,A,T,mañana_valle,2,0,3.772,0,0,0,0.36,7,3,3300,1,0
+Bello,Poblado,A,A,mañana_pico,4,0,13.717,1,0,0,0.94,4,5,3300,0,1
+Hospital,San Javier,A,B,tarde_pico,7,0,5.018,0,0,1,0.9,4,5,3300,1,1
+Santa Lucía,Universidad,B,A,mañana_valle,5,0,3.924,0,0,0,0.35,7,13,3300,1,1
+Asomadera,Envigado,T,A,tarde_valle,5,0,10.24,0,0,0,0.36,7,12,3300,1,1
+Arví,Alpujarra,L,A,tarde_pico,6,0,10.302,0,0,0,0.81,2,17,3300,1,1
+Floresta,Asomadera,B,T,noche,2,0,7.604,0,0,0,0.28,11,5,3300,1,0
+Oriente,La Aurora,T,J,noche,6,0,12.15,0,0,0,0.25,8,15,3300,1,0
+Bicentenario,Caribe,T,A,tarde_pico,3,0,4.053,0,0,0,0.74,3,10,3300,1,1
+Aguacatala,La Aurora,A,J,tarde_pico,3,0,9.886,0,0,0,0.84,2,2,3300,1,1
+Juan XXIII,Universidad,J,A,tarde_valle,4,0,6.023,0,0,0,0.35,7,9,3300,1,0
+Santa Lucía,Ayurá,B,A,tarde_valle,1,0,6.949,0,0,0,0.44,4,4,3300,1,0
+Loyola,Alpujarra,T,A,mañana_pico,7,0,3.969,0,0,0,0.77,4,11,3300,1,1
+La Independencia,Loyola,K,T,noche,4,0,6.934,0,0,0,0.27,8,11,3300,1,0
+Alpujarra,Poblado,A,A,mañana_pico,1,0,3.469,1,0,0,0.94,4,4,3300,0,1
+Bicentenario,Andalucía,T,K,madrugada,1,0,6.52,0,0,0,0.14,8,6,3300,1,0
+La Sierra,Asomadera,M,T,tarde_pico,6,0,2.653,0,0,0,0.8,5,10,3300,1,1
+Arví,Trece de Noviembre,L,M,mañana_valle,6,0,8.874,0,0,0,0.47,7,10,3300,1,0
+Caribe,Parque Berrío,A,A,mañana_pico,1,0,3.386,1,0,0,0.8,2,7,3300,0,1
+Bello,Poblado,A,A,tarde_pico,6,0,13.717,1,0,0,0.74,3,14,3300,0,1
+Trece de Noviembre,La Aurora,M,J,mañana_pico,1,0,9.343,0,0,0,0.83,5,5,3300,1,1
+Asomadera,Bicentenario,T,T,madrugada,1,0,1.792,1,0,0,0.12,10,15,3300,0,0
